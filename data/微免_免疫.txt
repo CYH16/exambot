@@ -1,0 +1,179 @@
+﻿{答案:"C",題目:"有關先天性免疫力（innate immunity）之概念，下列何者錯誤？\n(A)在微生物入侵數分鐘內即可啟動其反應\n(B)對微生物進行吞噬作用\n(C)對微生物不具備辨識能力\n(D)可由細胞外病原（extracellular pathogens）以及細胞內病原（intracellular pathogens）引發"},
+{答案:"D",題目:"下列那一個基因突變破壞時，就不會產生B及T細胞？\n(A)末端去氧核苷酸轉移酶（terminal deoxynucleotidyl transferase, TdT）\n(B)ZAP-70\n(C)AID（activation-induced cytidine deaminase）\n(D)RAG1/RAG2重組酶（RAG1/RAG2 recombinase）"},
+{答案:"D",題目:"下列何者不是毒殺性T細胞（cytotoxic T lymphocyte，CTL）能專一性毒殺標的細胞的原因？\n(A)CTL需利用TCR辨認標的細胞是否有表現專一性抗原胜肽/MHC class I複合物\n(B)CTL利用TCR辨認出標的細胞後，其將要分泌出去的內容物顆粒會移至CTL與標的細胞接觸的位置\n(C)CTL利用TCR辨認出標的細胞後，可以利用FasL與標的細胞的Fas結合，引發標的細胞的凋亡\n(D)CTL可以分泌IL-12來幫助細胞抑制病毒的複製"},
+{答案:"C",題目:"Celiac disease及Crohn's disease是二種腸道發炎疾病，下列有關二者之比較何者正確？\n(A)前者是對腸內共生菌有強烈發炎反應，後者是因為對麥類食物過敏所引起\n(B)前者可能與NOD-2分子失去功能有關，後者主要與HLA-DQ2分子的表現有關\n(C)IFN-γ所引起的發炎反應，在這二種疾病都扮演重要角色\n(D)利用廣泛性抗生素去掉大部分共生菌，皆可治療這二種疾病"},
+{答案:"C",題目:"下列有關補體的敘述，何者錯誤？\n(A)補體是一種蛋白質\n(B)補體會參與專一性和非專一性防禦作用\n(C)干擾素也是補體的一種\n(D)補體可以溶解細菌的細胞膜"},
+{答案:"C",題目:"嬰幼兒施打破傷風類毒素疫苗後產生免疫保護時，會啟動特異性免疫反應並且有長期的免疫記憶。這項免疫反應主要是由下列那一種免疫細胞間的互動所引發的？\n(A)樹突細胞（dendritic cells）藉由MHC class I分子和CD4 T cells進行非抗原特異性結合\n(B)巨噬細胞（macrophages）藉由MHC class I分子和CD8 T cells進行非抗原特異性結合\n(C)樹突細胞藉由MHC class II分子和CD4 T cells進行抗原特異性結合\n(D)巨噬細胞藉由MHC class II分子和CD8 T cells進行抗原特異性結合"},
+{答案:"D",題目:"志明和春嬌結婚後發現他們的祖母是表姊妹。他們生下的女兒小英特別容易得到肺炎鏈球菌和嗜血桿菌的感染。免疫學檢查發現小英的 IgM 血清濃度正常但缺乏其他 isotype 的抗體，並且其抗體的抗原結合部位缺乏高頻率突變導入的多樣性。小英最可能有下列何種疾病？\n(A)Selective IgA deficiency\n(B)Bruton's agammaglobulinemia\n(C)Hyper IgE syndrome\n(D)Autosomal inherited defect in the AID（activation-induced cytidine deaminase） gene"},
+{答案:"D",題目:"臨床醫師目前無法使用下列那一項方式來治療過敏性氣喘？\n(A)抗IgE 抗體（anti-IgE antibodies）\n(B)類固醇（corticosteroid）\n(C)減敏療法（desensitization immunotherapy）\n(D)注射IL-12提升TH1細胞活性"},
+{答案:"D",題目:"志明（血型B型）和春嬌（血型AB型）結婚後生下女兒小英（血型A型）。他們的下一個小孩血型為B型的機會正常狀態下為多少百分比？\n(A)0\n(B)25\n(C)33\n(D)50"},
+{答案:"BD",題目:"某些微生物感染而引起自體免疫疾病，其致病機轉為何？\n(A)引起人體特殊HLA抗原的表現，進而導致自體免疫性\n(B)由於感染抗原與組織抗原之分子類似性（molecular mimicry），導致自體免疫性\n(C)高內皮小靜脈細胞（high endothelial venule, HEV）被活化，進而導致自體免疫性\n(D)胸腺之中央移除（central deletion）機轉受影響，進而導致自體免疫性"},
+{答案:"A",題目:"一位患有重症肌無力（myasthenia gravis）的孕婦，剛剛平安產下3100公克的小女嬰，但是隨即發現小女嬰呼吸較淺，四肢力量也較差，因此迅速被送入新生兒加護病房治療。小女嬰的病因為何？\n(A)母親傳給她的抗乙醯膽鹼受體抗體（anti-acetylcholine receptor antibody）致病\n(B)母親的TR1細胞（TR1 cells）引起之免疫反應\n(C)母親的TH3細胞（TH3 cells）引起之免疫反應\n(D)母親傳給她的抗Ro抗體（anti-Ro antibody）及抗La抗體（anti-La antibody）所致病"},
+{答案:"A",題目:"Anti-VEGF（anti-vascular endothelium growth factor）抗體在治療大腸癌之作用機轉是下列那一項？\n(A)抑制血管新生\n(B)抑制吞噬細胞作用\n(C)促進T細胞增生\n(D)促進自然殺手NK細胞增生"},
+{答案:"D",題目:"組織移植種入身體免疫特區（immunologically privileged sites）時，能夠長期存活，下列那一項不屬於這種免疫特區？\n(A)大腦\n(B)小腦\n(C)睪丸\n(D)肌肉"},
+
+
+
+
+{答案:"B",題目:"下列何種細胞不是抗原呈獻細胞（antigen-presenting cell, APC）？\n(A)B細胞\n(B)CD4+ T細胞\n(C)巨噬細胞（macrophage）\n(D)蘭格翰細胞（Langerhans' cells）"},
+{答案:"C",題目:"有關抗體多變區（variable domain）重鏈與輕鏈基因在進行V(D)J片段重組（recombination）時的順序，下列何者正確？\n(A)V-J joining早於V-D joining\n(B)V-J joining早於D-J joining\n(C)D-J joining早於V-J joining\n(D)V-D joining早於D-J joining"},
+{答案:"B",題目:"B細胞發育過程中第一個表現之抗體蛋白是：\n(A)δ重鏈（δ heavy chain）\n(B)μ重鏈（μ heavy chain）\n(C)κ輕鏈（κ light chain）\n(D)λ輕鏈（λ light chain）"},
+{答案:"A",題目:"有關毒殺性T細胞（cytotoxic T lymphocyte，CTL）與自然殺手細胞（natural killer cell，NK）之敘述，何者正確？\n(A)CTL與NK皆可利用perforin及granzyme分子毒殺標的細胞\n(B)NK需要辨認MHC class I與專一性抗原才可活化其毒殺機制\n(C)CTL只需要辨認MHC class I本身即可活化其毒殺機制\n(D)CTL與NK皆可分化變成記憶性細胞"},
+{答案:"D",題目:"對於剛成熟的B細胞（mature naive B cell）與記憶性B細胞的敘述，下列何者最正確？\n(A)成熟B細胞的細胞膜上有IgG抗體\n(B)成熟B細胞已經結合辨識過抗原了\n(C)記憶性B細胞存在於胸腺中數量最多\n(D)記憶性B細胞產生的抗體通常較具高親和力"},
+{答案:"D",題目:"樹突細胞可以誘導調節性T細胞的分化，下列那個分子與此功能無直接關聯？\n(A)IL-10\n(B)TGF-β\n(C)Indoleamine 2, 3 dioxygenase（IDO）\n(D)IL-6"},
+{答案:"B",題目:"Fas的基因剔除小鼠（gene knockout mice）會產生何種自體免疫病變？\n(A)發炎性腸道疾病（inflammatory bowel disease）\n(B)淋巴球增生疾病（lymphoproliferative disease）\n(C)類風濕性關節炎（rheumatoid arthritis）\n(D)去髓鞘病變（demyelinating disease）"},
+{答案:"A",題目:"偵測病毒雙股RNA的主要受器為下列何者？\n(A)Toll-like receptor 3\n(B)Toll-like receptor 7\n(C)Toll-like receptor 6\n(D)Toll-like receptor 4"},
+{答案:"A",題目:"最常見的性聯遺傳型嚴重混合性免疫缺損（XSCID）病患細胞中，產生基因突變的白血球分子應該歸為於下列那一種類？\n(A)細胞激素接受體的訊息傳遞分子\n(B)細胞骨架的組成分子\n(C)細胞游走（migration）所需要的粘著分子\n(D)血球產生活性氧自由基的酵素"},
+{答案:"B",題目:"有關結核菌素引發之過敏反應的敘述，下列何者最正確？\n(A)IgE為主要參與反應的抗體\n(B)由活化之T淋巴細胞主導\n(C)常於接種結核菌素後半小時內發作\n(D)發現有大量嗜酸性球浸潤"},
+{答案:"D",題目:"由於體超突變機轉（somatic hypermutation）使得在發育中心（germinal center）的B淋巴球能產生出對抗原結合性更高的抗體，但是此過程之中也偶而會有產生自體抗體的B淋巴球，這時免疫系統如何處理？\n(A)這些產生自體抗體的B淋巴球，停留於發育中心並不離開，以便於將來遇到自體抗原時再產生自體抗體\n(B)這些產生自體抗體的B淋巴球，因與補體結合而活化增生\n(C)這些產生自體抗體的B淋巴球，會遇到巨噬細胞而被清除\n(D)這些產生自體抗體的B淋巴球，在缺乏T細胞幫助之下凋亡，因而被清除"},
+{答案:"D",題目:"下列有關腫瘤抗原的敘述，何者錯誤？\n(A)突變後的self-antigens\n(B)部分是胎兒時期表現的蛋白\n(C)部分是正常的細胞生長因子接受器\n(D)與抗原蛋白質之醣化修飾作用無關"},
+{答案:"B",題目:"類固醇藥物（corticosteroids）之作用，下列何者錯誤？\n(A)促進白血球（leukocytes）凋亡（apoptosis）\n(B)促進細胞激素（cytokines）產生\n(C)抑制白血球（leukocytes）遷移（migration）\n(D)抑制前列腺素（prostaglandins）的產生"},
+
+
+
+
+{答案:"A",題目:"當一個B細胞產生的抗體由IgM轉變為IgG時，其機制為：\n(A)DNA重組（recombination）\n(B)RNA剪接（splicing）\n(C)蛋白質裂解（degradation）\n(D)新的基因表現（expression of a new gene）"},
+{答案:"D",題目:"T細胞受器多樣化（T cell receptor diversity）之原因很多，但不包含下列那一項？\n(A)V(D)J基因片段連接[V(D)J gene segments joining]\n(B)N-核苷酸添加（N-nucleotides addition）\n(C)P-核苷酸添加（P-nucleotides addition）\n(D)體細胞超突變（somatic hypermutation）"},
+{答案:"B",題目:"下列何種情形下，抗原呈現細胞可以直接活化CD8+ T細胞？\n(A)當抗原呈現細胞表現高量MHC class I時\n(B)當樹突細胞表現高量B7與4-1BBL時\n(C)當抗原呈現細胞分泌高量IFN-γ時\n(D)當病毒不能感染抗原呈現細胞時"},
+{答案:"D",題目:"下列有關Crohn's disease的敘述何者錯誤？\n(A)病人體內對腸內共生菌有強烈發炎反應\n(B)為第一型輔助性T細胞（TH1）主導的發炎疾病\n(C)使用廣泛性抗生素可治療這種疾病\n(D)可能與HLA-DQ2分子功能異常有關"},
+{答案:"C",題目:"下列何者為減毒性活菌疫苗？\n(A)沙克疫苗（小兒麻痺注射疫苗）\n(B)流行性感冒疫苗\n(C)卡介苗（肺結核疫苗）\n(D)破傷風疫苗"},
+{答案:"B",題目:"會感染人體的致病性微生物種類繁多，但是只有少數被證明與癌症致病機轉有關。下列那一種細胞內感染的微生物有較強的證據會引起人類的癌症？\n(A)腸病毒七十一型\n(B)EB病毒（Epstein-Barr virus）\n(C)鏈球菌\n(D)結核分支桿菌"},
+{答案:"B",題目:"茂伯騎機車擦傷後，傷口一年多還不癒合而演變成骨髓炎，細菌培養長出非典型分支桿菌。追溯過去病史，他從少年開始就易受沙門氏菌等長期感染，他最可能罹患那一種類型的原發性免疫缺損？\n(A)CD8+ 細胞功能的缺損\n(B)IL-12-IFNγ軸心缺損\n(C)NK細胞功能的缺損\n(D)TH2 型免疫反應的缺損"},
+{答案:"A",題目:"下列那一項疾病的發病機轉與第一型過敏反應最相關？\n(A)過敏性氣喘（allergic asthma）\n(B)阿瑟氏反應（Arthus reaction）\n(C)溶血性貧血（hemolytic anemia）\n(D)血清病（serum sickness）"},
+{答案:"D",題目:"免疫反應攻擊自體組織細胞會產生免疫疾病。依照Coombs和Gell對免疫疾病的分類，下列那一項免疫反應該歸類為第一型的過敏反應（hypersensitivity）？\n(A)全身性紅斑狼瘡的國中女生發生溶血性貧血\n(B)十歲男童發現抗血小板抗體引起的牙齦流血傾向\n(C)皮下注射過敏原三日後引起皮膚產生硬塊並發熱\n(D)吸入風媒花花粉後馬上發生鼻塞和流眼淚"},
+{答案:"A",題目:"許多新的生物製劑及擬人化的單株抗體已經被發展出來，以治療自體免疫病，但不包括下列那一項？\n(A)抗Btk tyrosine kinase抗體（Btk tyrosine kinase monoclonal antibody）治療紅斑性狼瘡（systemic lupus erythematsus）\n(B)CTLA4免疫蛋白複合蛋白質（CTLA4-immunoglobulin fusion protein）治療類風濕性關節炎（rheumatoid arthritis）\n(C)抗腫瘤壞死因子抗體（TNF-specific monoclonal antibody）治療類風濕性關節炎（rheumatoid arthritis）\n(D)抗α4：β1 integrin抗體（α4：β1 integrin-specific monoclonal antibody）治療發炎性腸道疾病（inflammatory boweldisease）"},
+{答案:"C",題目:"Heat-shock proteins可被用來促進實驗性腫瘤疫苗（tumor vaccine）的作用，其機轉為何？\n(A)幫助抗原呈獻細胞（antigen-presenting cell）的增生\n(B)促進抗原呈獻細胞（antigen-presenting cell）的co-stimulating molecules的表現\n(C)幫助tumor antigen在MHC（major histocompatibility complex）class I分子的呈現\n(D)幫助抗原呈獻細胞（antigen-presenting cell）對腫瘤細胞的耐受性"},
+{答案:"C",題目:"腫瘤細胞在身體內存在並壯大的能力至為驚人，它有許多種方式逃避身體免疫系統的偵查及消滅，而得以繼續長大，這些方式並不包括下列那一項？\n(A)引起調節型T（Treg）細胞的增加，進而引起免疫反應之轉向\n(B)腫瘤細胞不表現或只有極低的胜肽：人類白血球抗原（peptide：MHC）表現\n(C)引起延遲性過敏反應（late phase allergic reaction）而形成腫塊長大\n(D)腫瘤抗原雖經抗原呈現細胞（APC）表現給T細胞，但會使T細胞對此抗原不反應"},
+{答案:"C",題目:"下課時兩個小學生互相拿著筆比劃玩耍，一不小心跌倒在一起，其中一位的筆戳到另一位的眼睛，刺入眼中造成傷口，為何傷者住院後卻出現雙眼同時腫脹，連未受傷眼睛也有炎症情況？\n(A)醫療失誤之後感染造成\n(B)眼睛是免疫特殊部位（immunologically privileged sites），組織破裂，釋放傷害因子，進而影響到另一未受傷眼睛\n(C)眼睛是免疫特殊部位，組織破裂釋出本身抗原時，引起免疫反應，進行攻擊破壞另一未受傷眼睛（sympathetic ophthalmia）\n(D)受傷眼睛內產生調節型T淋巴球（Treg cells），將免疫反應導向另一未受傷眼睛"},
+
+
+
+
+{答案:"A",題目:"在正常健康人體周邊血（peripheral blood）中之何種細胞最多？\n(A)T淋巴細胞\n(B)B淋巴細胞\n(C)漿細胞（plasma cell）\n(D)自然殺手細胞"},
+{答案:"C",題目:"B細胞中抗體分子類型轉換（class switch）無法順利進行，而導致高IgM症候群（hyper-IgM syndrome），常是因為那一個基因的缺損所致？\n(A)terminal deoxynucleotidyl transferase（TdT）\n(B)Bruton's tyrosine kinase（Btk）\n(C)CD40 ligand（CD40L）\n(D)recombination-activating gene（RAG）"},
+{答案:"C",題目:"未曾活化之B細胞（naïve B cell）細胞膜上出現IgD，其機制為何？\n(A)免疫球蛋白基因重組（recombination of Ig variable gene segments）\n(B)免疫球蛋白基因超變異轉換重組（Ig gene hypermutation）\n(C)免疫球蛋白重鏈RNA剪接（Ig heavy chain RNA splicing）\n(D)免疫球蛋白輕鏈RNA剪接（Ig light chain RNA splicing）"},
+{答案:"B",題目:"在抗原受器基因重組（antigen receptor gene rearrangement）時，N-核苷酸添加（N-nucleotide addition）多變方式（diversity）於下列那一種重組時，其發生之機會為最低？\n(A)抗體重鏈基因（Ig heavy chain gene）\n(B)抗體輕鏈基因（Ig light chain gene）\n(C)T細胞受器α-鏈基因（TCR α-chain gene）\n(D)T細胞受器β-鏈基因（TCR β-chain gene）"},
+{答案:"B",題目:"第十七型輔助性T細胞（TH17）需要何種細胞激素的持續存在，才能夠維持其功能？\n(A)IL-12\n(B)IL-23\n(C)IL-10\n(D)IFN-γ"},
+{答案:"D",題目:"經過多年的研究，終於發現藥物X可以促進轉錄因子FoxP3的表現，而轉錄因子FoxP3主要表現在CD4+ T細胞上，且這些T細胞會分泌IL-10及TGF-β，並且表現CTLA-4分子。藥物X最不可能用來控制那種疾病？\n(A)移植排斥\n(B)紅斑性狼瘡\n(C)氣喘\n(D)腫瘤"},
+{答案:"C",題目:"下列何者不是第四型的過敏反應？\n(A)結核病\n(B)類肉瘤病（sarcoidosis）\n(C)B型肝炎\n(D)痲瘋（leprosy）"},
+{答案:"A",題目:"Wiskott-Aldrich syndrome 的病患經常會出現出血瘀青的現象，依照其致病機制，下列何種藥劑或治療方法對這類型病患的出血症狀最不可能有效？\n(A)第八凝血因子\n(B)血小板濃厚血漿\n(C)基因治療\n(D)幹細胞移植"},
+{答案:"B",題目:"人體內那一種抗體濃度增加，容易引起第一型過敏反應？\n(A)IgA\n(B)IgE\n(C)IgG\n(D)IgM"},
+{答案:"B",題目:"調節型T細胞（Treg cells）在人類的自體免疫疾病的致病機轉及調控方面，有何角色？\n(A)在紅斑性狼瘡疾患（systemic lupus erythematosus, SLE），抑制初始淋巴球（naïve lymphocytes）之歸處（homing）\n(B)在多發性硬化症（multiple sclerosis）疾患，呈現功能缺失現象\n(C)在類風濕性關節炎（rheumatoid arthritis）疾患，呈現功能過高現象\n(D)在人類的自體免疫疾病的致病機轉方面，並無角色"},
+{答案:"C",題目:"下列關於 tumor antigens 的敘述，那一項錯誤？\n(A)多數為 self-antigens\n(B)可以是 tumor specific\n(C)只會在腫瘤生長前期表現\n(D)可以是突變的 self-antigens"},
+{答案:"D",題目:"免疫系統能夠偵查出腫瘤細胞的存在，並且盡力消滅它。免疫系統與腫瘤互動的階段依先後次序為何？\n(A)逃避期（escape phase）→平衡期（equilibrium phase）→腫瘤之免疫調節期（immunoediting）\n(B)逃避期→消滅期（elimination phase）→平衡期\n(C)平衡期→逃避期→消滅期\n(D)消滅期→平衡期→逃避期"},
+{答案:"A",題目:"腎臟移植時發生超急性排斥（hyperacute rejection），其原因是抗體攻擊腎臟的何種細胞或組織？\n(A)血管內皮細胞（vascular endothelium）\n(B)腎膈細胞（mesangial cell）\n(C)腎小管上皮細胞（renal tubular epithelial cell）\n(D)鮑氏囊（Bowman's capsule）"},
+
+
+{答案:"C",題目:"當抗原穿過皮膚進入組織時，B 細胞及 T 細胞免疫反應在何處發生？\n(A)皮下組織        \n(B)骨髓        \n(C)淋巴結        \n(D)脾臟"},
+{答案:"D",題目:"下列何者是毒殺型 T 細胞（cytotoxic T cell）的共同接受器（co-receptor）？\n(A) CD2        \n(B) CD3        \n(C) CD4        \n(D) CD8"},
+{答案:"A",題目:"一段抗原蛋白片段被 T 細胞辨識時，不會與下列那一個分子直接接觸？\n(A) CD3 複合體分子        \n(B)主要組織相容性複合體（MHC）分子\n(C) T 細胞受體（TCR）α 鏈        \n(D) T 細胞受體（TCR）β 鏈"},
+{答案:"D",題目:"T 細胞受體之 β 鏈（T cell receptor β-chain, TCRβ）基因之胚原序列（germline sequence）可存在於下 列那種細胞中？\n(A) CD4+CD8+ T 細胞        \n(B)輔助型 T 細胞（helper T cell）\n(C)毒殺型 T 細胞（cytotoxic T cell）        \n(D) B 細胞"},
+{答案:"D",題目:"下列有關 mixed lymphocyte reaction（MLR）的敘述何者錯誤？\n(A) MLR 可以用來偵測器官移植時，捐贈者與接受者組織不相容之情形\n(B) MLR 可以用來偵測 CD4+  T 細胞增生之情形\n(C) MLR 會加入[3H]-thymidine 來偵測 DNA 合成之情況\n(D)[3H]-thymidine 的量越多表示細胞增生程度越好，捐贈者的器官越容易被接受 "},
+{答案:"D",題目:"關於 T 輔助細胞在 B 細胞活化過程中所提供協助的敘述，下列那一項錯誤？\n(A)兩種細胞必須辨識同一種抗原（linked recognition），才能有效刺激抗體生成\n(B) T 輔助細胞分泌細胞激素（cytokines）協助 B 細胞的複製與活化\n(C) T 輔助細胞表面表現 CD40L 分子，可協助 B 細胞第 2 訊號的傳遞\n(D) T 輔助細胞表面表現 B7，是主要的協同刺激因子（co-stimulatory molecule）"},
+{答案:"A",題目:"上皮內淋巴細胞（intraepithelial lymphocytes, IELs）主要包含二群 CD8+ T 細胞，一群為 CD8 α:α T 細 胞，另一群為 CD8 α:β T 細胞，下列有關這二群細胞之敘述，何者正確？\n(A)二者皆可利用 perforin 及 granzyme 毒殺受感染的上皮細胞\n(B)二者皆利用 T 細胞受體與呈現抗原的 MHC class I 分子結合\n(C)二者皆主要以 naïve T 細胞型式存在上皮細胞之間\n(D)二者的 T 細胞受體變異性（TCR diversity）皆很小 "},
+{答案:"D",題目:"有關皮膚與黏膜的防禦作用，下列敘述何者錯誤？\n(A)皮膚的外層細胞角質化，可增強對病原體的防禦能力\n(B)胃黏膜的強酸性胃液，可摧毀大部分細菌\n(C)皮脂腺分泌的油脂可阻止細菌繁殖\n(D)皮膚表面的鹼性狀態，可阻止微生物在皮膚繁殖"},
+{答案:"C",題目:"關於先天性免疫力（innate immunity）相關的基因突變會導致嚴重的原發性免疫缺損疾病的敘述，下 列何者正確？\n(A) NEMO 的突變不會影響先天性免疫力\n(B)慢性肉芽腫病的病患易受肝炎病毒感染\n(C)白血球黏著分子缺損可能會導致新生兒臍帶傷口延遲癒合\n(D) Toll-like receptor 的缺損不會導致對病毒的免疫缺損"},
+{答案:"D",題目:"有關第三型過敏免疫反應，最正確的敘述為何？\n(A)抗體辨識與結合細胞表面抗原，造成細胞壞死所產生的過度免疫反應\n(B)主要參與反應的抗體為 IgE\n(C)大量過度活化 TH1  與 CD8 T 細胞所致\n(D)常因持續性病原菌感染所引發"},
+{答案:"C",題目:"過敏原和抗原特異性的 IgE 結合後如何活化肥大細胞（mast cells）？\n(A)經由補體接受體被吞噬到肥大細胞內\n(B)經由 B 細胞表面的抗體刺激 B 細胞產生更多 IgE\n(C)經由肥大細胞表面的 IgE 接受體傳訊息到細胞內\n(D)黏著到樹突細胞上的 MHC 分子刺激 T 細胞產生 IL-4"},
+{答案:"A",題目:"下列有關 adoptive T-cell transfer 用於腫瘤免疫治療的敘述，那一項錯誤？\n(A)自健康人體內純化 T 細胞在體外刺激後打回癌症病人的療法\n(B) T 細胞體外活化需要 IL-2 細胞激素刺激\n(C) T 細胞可以經由抗原呈獻細胞（antigen presenting cells）活化\n(D) T 細胞活化後仍保有記憶性（memory）"},
+{答案:"C",題目:"關於移植體對抗宿主疾病（graft-versus-host disease, GVHD），下列何者錯誤？\n(A)需要接受者的抗原呈獻細胞（antigen presenting cells）啟動\n(B)可運用混合淋巴球反應（mixed lymphocyte reaction）檢測\n(C)因接受者的 T 細胞過多造成\n(D)可以去除移植體的 T 細胞而減緩其反應"},
+
+
+
+
+{答案:"C",題目:"下列何者為生命期較短，且具有吞噬作用之血球：\n(A)巨噬細胞（macrophage）        \n(B)淋巴細胞（lymphocyte）\n(C)嗜中性細胞（neutrophil）        \n(D)自然殺手細胞（natural killer cell） "},
+{答案:"C",題目:"下列何者為補體（complement）的三種活化路徑之最初會合點？\n(A)ClqClrCls complex        \n(B)C4b        \n(C)C3 convertase        \n(D)C5 convertase "},
+{答案:"A",題目:"抗體重鏈 VH 多變區（variable domain）結構中 CDR3 區域多樣性來源不包括下列那一項？\n(A)class switch \n(B)palindromic nucleotide addition\n(C)V(D)J recombination        \n(D)somatic hypermutation "},
+{答案:"C",題目:"下列有關 pre-B 細胞受器（pre-B cell receptor）的敘述，何者正確？\n(A)為 IgM        \n(B)辨識外來抗原\n(C)具有免疫球蛋白之 μ 鏈（μ chain）        \n(D)具有免疫球蛋白之 λ 鏈（λ chain）"},
+{答案:"C",題目:"有關 mixed lymphocyte reaction（MLR）的原理，下列何者錯誤？\n(A)MLR可以用來偵測 CD4+  T 細胞增生之情形        \n(B)主要引起 T 細胞增生的抗原為異體 MHC 分子\n(C)MLR會加入 51Cr 來偵測 DNA 合成之情況        \n(D)實驗所需時間約 3 至 7 天"},
+{答案:"B",題目:"有關非 T 依賴型抗原（T-independent antigen）引起 B 細胞反應的敘述，下列那一項最適當？ \n(A)通常引發分泌大量 IgG        \n(B)是對細菌入侵人體時的一種快速反應\n(C)可以增加具有記憶性 B 細胞的數量        \n(D)產生的抗體具有高親和力"},
+{答案:"B",題目:"下列有關 M 細胞（microfold cells）之敘述，何者正確？\n(A)主要位在 lamina propria 上        \n(B)是主要腸道抗原或是微生物進入體內的路徑\n(C)也會分泌酵素與黏液        \n(D)主要功能為呈現抗原並啟動免疫反應"},
+{答案:"B",題目:"有關主要組織相容性複合體（major histocompatibility complex，MHC）的功能描述，下列何者錯誤？ \n(A)第一型 MHC 蛋白可在體內所有有核的細胞上發現\n(B)第二型 MHC 蛋白只在巨噬細胞及 T 細胞上發現 \n(C)毒殺性 T 細胞可辨識與第一型 MHC 蛋白結合的抗原 \n(D)輔助型 T 細胞可辨識與第二型 MHC 蛋白結合的抗原"},
+{答案:"D",題目:"下列何種疾病不是靜脈注射免疫球蛋白製劑（IVIG）的適應症？\n(A)Common variable immunodeficiency\n(B)X-linked agammaglobulinemia\n(C)Agammaglobulinemia due to mutations in the mu heavy chain \n(D)Seletive IgA deficiency"},
+{答案:"C",題目:"下列那一種細胞激素最有可能降低氣喘病的發生？\n(A)IL-4        \n(B)IL-5        \n(C)IL-12        \n(D)IL-13"},
+{答案:"B",題目:"缺乏下列那種細胞激素，可能會引起發炎性腸道疾病（inflammatory bowel disease）？\n(A)TNF-α        \n(B)IL-10        \n(C)IL-1        \n(D)IFN-γ"},
+{答案:"C",題目:"Immune surveillance 理論的敘述，下列那一項錯誤？\n(A)免疫系統可以偵測腫瘤細胞的存在        \n(B)免疫系統可以殺死生長中的腫瘤細胞 \n(C)免疫系統可以促進腫瘤發炎反應        \n(D)免疫系統可以經由主動免疫方式殺死腫瘤細胞"},
+{答案:"BC",題目:"以生物製劑（biologics） 抗 B 細胞單株抗體（rituximab）治療疾病，下列何者為正確？ \n(A)人類抗原是 CD（clusters of differentiation）52\n(B)治療 Hodgkin's lymphoma \n(B)經基因工程處理，免疫刺激性（immunogenic）低 \n(D)可以清除體內之漿細胞（plasma cells）"},
+
+
+
+
+{答案:"A",題目:"下列何者不是人類次級（secondary）淋巴器官？\n(A)胸腺（thymus）\n(B)脾臟（spleen）\n(C)淋巴結（lymph nodes）\n(D)腸道淋巴組織（gut-associated lymphoid tissue；GALT）"},
+{答案:"D",題目:"敗血症（sepsis）發生時，下列那一種細胞激素（cytokine）是造成敗血性休克（septic shock）之主要 原因？\n(A) interferon-α        \n(B) G-CSF        \n(C) IL-2        \n(D) TNF-α "},
+{答案:"C",題目:"下列何分子不會造成巨噬細胞活化？\n(A) IFN-γ（interferon-γ）        \n(B) TNF-α（tumor necrosis factor-α）\n(C) IL-10（interleukin-10）        \n(D) LPS（lipopolysaccharide） "},
+{答案:"C",題目:"在骨髓（bone marrow）中，B 細胞之分化與下列那一項無關？\n(A) RAG1/RAG2 酵素        \n(B)基質細胞（stromal cell）\n(C)類型轉換重組（class switch recombination）        \n(D) IL-7 "},
+{答案:"C",題目:"CD28 與 CTLA-4 為調控 CD4+ T 細胞活化的重要分子，下列有關 CD28 與 CTLA-4 之敘述，何者正確？\n(A) CD28 與 CTLA-4 皆會表現在純真（naïve）CD4+  T 細胞上\n(B) CD28 與 CTLA-4 分子皆會與 B7 分子結合，但是 CD28 與 B7 的親和力高於 CTLA-4 與 B7 的親和力\n(C) CD28 傳遞活化的訊息給 CD4+ T 細胞，但是 CTLA-4 傳遞抑制活化的訊息給 CD4+  T 細胞\n(D) CTLA-4 對於維持中央耐受性（central tolerance）扮演重要角色"},
+{答案:"B",題目:"下列那一項不是免疫球蛋白 G（immunoglobulin G，IgG）的主要功能？\n(A)中和（neutralize）病原菌或其毒素        \n(B)清除細胞內的病原菌\n(C)增進吞噬作用        \n(D)活化補體功能"},
+{答案:"B",題目:"白血球黏著分子缺損所導致的免疫功能障礙中，下列那一項敘述最為正確？\n(A)血液中的白血球數目下降        \n(B)發炎組織中的白血球浸潤減少\n(C)白血球對補體的反應增強        \n(D)白血球的游走（migration）不受影響"},
+{答案:"A",題目:"下列何種細胞直接參與抗體依存性細胞毒殺反應（antibody-dependent  cell-mediated  cytotoxicity， ADCC）？\n(A)自然殺手細胞        \n(B) B 淋巴細胞        \n(C) CD8+  T 淋巴細胞        \n(D) CD4+  T 淋巴細胞"},
+{答案:"B",題目:"關於 T 細胞和巨噬細胞互動所需要的分子產生突變而引起的免疫缺損，下列敘述何者錯誤？\n(A) IL-12 缺損會導致對分枝桿菌防護能力下降\n(B) CD40 或 CD40L 的突變不會影響 T 細胞功能\n(C) IFN-γ 接受體的完全缺乏會使個體組織產生肉芽腫的能力降低\n(D) TNF-α 在產生肉芽腫的過程中扮演重要的角色"},
+{答案:"B",題目:"A 血型的小華因動手術需要輸血，但不慎被輸入 B 型紅血球，後來引起發燒、血栓、血紅素尿等症 狀，這屬於第幾型過敏反應？\n(A)第一型        \n(B)第二型        \n(C)第三型        \n(D)第四型"},
+{答案:"A",題目:"有些淋巴球雖然能夠以較低的親和性認識自體抗原或與自體抗原極為類似的分子，卻也能夠逃過免 疫系統自體耐受性（self-tolerance）的機轉而得以存在。這些淋巴球有何特性？\n(A)一般不會產生自體免疫反應，只有在特殊狀況，如嚴重感染時會被活化\n(B)一般會再循環至胸腺而被移除，因此並不引起自體免疫病變\n(C)將接受細胞激素偏移作用（cytokine deviation）而由體內消失\n(D)將由 AIRE（autoimmune regulator）基因的調控而引起胰臟胰島細胞（islet cells）的破壞 "},
+{答案:"B",題目:"有關裸鼠（nude mice）在腫瘤免疫的研究，下列敘述何者錯誤？\n(A)裸鼠常用於人類腫瘤實驗室；因為其排斥腫瘤細胞生長能力差\n(B)裸鼠中 T 細胞及 B 細胞正常；但是活化機轉不正常，所以免疫力差\n(C)裸鼠中自然殺手細胞仍然是具有腫瘤排斥作用\n(D)裸鼠中的腫瘤生長較快且免疫監測較弱"},
+{答案:"B",題目:"下列何者不是環孢靈（cyclosporine）的藥效？\n(A)抑制介白素-2（interleukin-2）        \n(B)抑制間質纖維化（interstitial fibrosis）\n(C)抑制 T 細胞增生（proliferation）        \n(D)結合免疫細胞內之 immunophilins"},
+
+
+{答案:"B",題目:"對於 B 型、T 型細胞的抗原受體（antigen receptor），下列那一種敘述正確？\n(A)抗原受體的基因在胚原型（germline）時，蛋白質可被表現\n(B)遭遇抗原刺激前，抗原受體已呈現於細胞膜上\n(C)抗原受體接受刺激後，本身單獨即可傳遞訊息使細胞活化\n(D)細胞活化後，其抗原受體皆可被分泌到細胞外"},
+{答案:"B",題目:"下列那一種成熟的血球細胞沒有表現第一型主要組織相容性複合體（MHC class I）分子？\n(A)B 細胞 \n(B)紅血球 \n(C)T 細胞 \n(D)巨噬細胞"},
+{答案:"B",題目:"濾過性病毒利用細胞表面的分子當作進入接受體來選擇可感染的細胞。HIV 用CD4 當作主要接受體，CXCR4 和CCR5 當作共同接受體。所以HIV 主要感染下列那一種細胞？\n(A) 細胞毒殺性T 細胞 \n(B)輔助性T 細胞 \n(C)活化的B 細胞 \n(D)自然殺手（NK）細胞"},
+{答案:"D",題目:"有關腸黏膜中lamina propria 與上皮細胞之間的免疫細胞成分之敘述，下列何者正確？\n(A)lamina propria主要以CD8+T細胞為主\n(B)上皮細胞之間的免疫細胞主要為NK T 細胞\n(C)樹突細胞只在lamina propria 出現，並不會直接接觸腸道的細菌\n(D)嗜中性白血球較少出現在腸黏膜中，但是遇到感染時會很快遷移至發炎處"},
+{答案:"送分",題目:"下列有關胸腺教育的敘述，何者與自我耐受性（self tolerance）的形成最不相關？\n(A) 正向選擇（positive selection） \n(B)負向選擇（negative selection）\n(C)調節性T 細胞（regulatory T cell）之發育 \n(D)胸腺抗原呈現細胞表現自體抗原（self-antigen）"},
+{答案:"D",題目:"有關自然殺手細胞（natural killer cells）之敘述，下列何者錯誤？\n(A)發源於共同淋巴先驅細胞（common lymphoid progenitor cell）\n(B)具有毒殺顆粒（cytotoxic granules），釋放其中之物質以執行毒殺作用\n(C)能毒殺不表現或低度表現第一型MHC（MHC class I）分子之異常細胞\n(D)其作用屬於適應性免疫力（adaptive immunity）"},
+{答案:"C",題目:"當抗原侵入血液循環時，B 及T 細胞免疫反應在何處發生？\n(A)血液 \n(B)肝臟 \n(C)脾臟 \n(D)淋巴結"},
+{答案:"C",題目:"下列有關抗原決定位（epitope）之敘述，何者正確？\n(A) 一個蛋白質只具備一種抗原決定位 \n(B)能被抗體之Fc 部位辨識\n(C)能被抗體之Fab 部位辨識 \n(D)能被Fc 受器（Fc-receptor）辨識"},
+{答案:"A",題目:"有位感染 Mycobacterium leprae（M. leprae）的病人前來就診，病人主要有皮膚發炎與神經系統發炎的症狀，血液中對抗M. leprae 的抗體效價不高，巨噬細胞內的M. leprae 也沒有很多，下列那種細胞比較可能與病人臨床症狀有關？\n(A) 第一型輔助型T細胞（TH1） \n(B)第二型輔助型T細胞（TH2）\n(C)第三型輔助型T細胞（TH3） \n(D)調節性T細胞（regulatory T cell）"},
+{答案:"C",題目:"張先生腎臟衰竭到了末期，接受透析治療一段時間後，接到醫院的通知，可以準備接受腎臟移植。有一陌生捐贈者車禍致腦死，將捐出器官，其中一枚腎臟配給張先生。張先生與捐贈者的主要組織相容性複合體（Major Histocompatibility Complex）測試定型是完全相同的。那麼張先生腎臟移植之後，其預後情形可能為何？\n(A)將不會有排斥反應，因為主要組織相容性複合體經測試定型是完全相同的\n(B)將不會有排斥反應，因為次要組織相容性複合體也是完全相同的\n(C)將會有排斥反應，因為即使主要組織相容性複合體相同，其他的組織抗原可能不一樣，也會引起免疫反應\n(D)將會有排斥反應，因為張先生腎臟移植之前，按程序須先接受身體放射準備（total body irradiation）所致"},
+{答案:"B",題目:"張先生登山遭毒蛇咬傷，經注射抗蛇毒血清後症狀獲得控制而康復。如果他下一次再被蛇咬，接受抗蛇毒血清治療時，需注意血清病（serum sickness）的不良反應。下列關於血清病的敘述，何者正確？\n(A) 是因為毒蛇的血清經由傷口進入病患而引起疾病\n(B)是因為抗原抗體複合體堆積所產生\n(C)是因為蛇毒具特異性的T 細胞聚集在血清中產生組織傷害\n(D)血清中的病毒削弱免疫能力而產生疾病"},
+{答案:"D",題目:"某些人類白血球抗原（Human Leukocyte Antigens, HLA）基因在某自體免疫疾病患者中的存在有較為增高現象，是為有較高的「相較性的危險值」（relative risk）引起自體免疫致病性。有關這些相關性下列那一項敘述正確？\n(A)B27 對於第一型糖尿病（type 1 diabetes mellitus）\n(B)B27 對於葛瑞夫氏症（Graves’ disease）\n(C)B27 對於尋常天疱瘡（pemphigus vulgaris）\n(D)B27 對於僵直性脊椎炎（Ankylosing spondylitis）"},
+{答案:"B",題目:"茂伯因為工作時小腿外傷導致感染，到鄰近藥局購買無行政院衛生署核准的青黴素外用軟膏使用，二週後傷口無改善而住院，治療使用注射抗生素時卻產生嚴重的無防禦性過敏反應。引起此藥物過敏的免疫機轉下列何者正確？\n(A)引起過敏反應的免疫機轉歸類為抗原抗體複合體反應\n(B)引起過敏反應的免疫機轉歸類為第二型過敏反應\n(C)注射後產生過敏反應的時間約需48 小時\n(D)此過敏反應是因為細菌產生抗藥性引起的"},
+
+
+
+
+{答案:"C",題目:"下列何者為小腸黏膜區（mucosa）的M 細胞之主要功能？\n(A)分泌IgA \n(B)分泌黏液（mucus）\n(C)使腸道（lumen）中之抗原進入組織 \n(D)使組織中之抗原進入腸道"},
+{答案:"B",題目:"補體（complement）活化過程中產生之C3 convertase 能分解C3，製造大量C3a 及C3b。其中C3b之功能為何？\n(A)引起局部發炎反應，吸引巨噬細胞（macrophage）、嗜中性細胞（neutrophil）來到該部位\n(B)在病原菌表面形成共價鍵連結，表現C3b 之病原菌就容易被吞噬細胞（phagocytes）吞噬\n(C)直接攻擊病原菌之細胞膜\n(D)分解C4 成為C4a 及C4b"},
+{答案:"D",題目:"樹突細胞所分泌的細胞激素會影響CD4+ T細胞之分化，下列那些細胞激素會刺激第十七型輔助性T細胞（TH17）之分化？\n(A)TGF-β，IL-6 及IL-10 \n(B)TGF-β 及IL-10\n(C)IL-10 及IL-6 \n(D)TGF-β 及IL-6"},
+{答案:"C",題目:"目前所知人類基因之中，與自體免疫疾病有顯著相關性者，是人類白血球抗原（Human LeukocyteAntigen, HLA）基因。某些人類白血球抗原（HLA）基因在某自體免疫疾病患者中的存在有較為增高現象，是為有較高的「相較性的危險值」（relative risk）引起自體免疫致病性。下列那一項基因和疾病關係的敘述是正確的？\n(A)DR3 對於僵直性脊椎炎（Ankylosing spondylitis）\n(B)DR4 對於僵直性脊椎炎\n(C)DR3/DR4 對於第一型糖尿病（type I diabetes mellitus）\n(D)DR5 對於僵直性脊椎炎"},
+{答案:"D",題目:"出生於溫哥華之加拿大籍華裔青年大衛，今年暑假第一次回臺灣探望高齡祖父母，搭機前接受過2次B 型肝炎疫苗注射，他血清中對B 型肝炎表面抗原的抗體最有可能的情形為何？\n(A)第一次疫苗接種後第5 天出現極高量IgM \n(B)第一次疫苗接種後第5 天出現極高量IgG\n(C)第二次疫苗接種後第5 天出現極高量IgM \n(D)第二次疫苗接種後第5 天出現極高量IgG"},
+{答案:"D",題目:"下列那 2 種免疫球蛋白（immunoglobulin），可以提供新生兒對抗病原菌保護力？\n(A)IgA 與IgD \n(B)IgD 與IgE \n(C)IgE 與IgG \n(D)IgG 與IgA"},
+{答案:"送分",題目:"Epstein-Barr 病毒（EBV）感染人體後和免疫系統相互作用會引起各式各樣的疾病。下列何者不屬於EBV 感染後引起的疾病表現？\n(A)感染性單核球增多症 \n(B)急性B 細胞淋巴球性白血病\n(C)鼻咽癌 \n(D)產生多株自體抗體"},
+{答案:"D",題目:"免疫球蛋白（immunoglobulin, Ig）與T 細胞受體（T-cell receptor, TCR）分子的多變區（variabledomain），其基因均需進行V(D)J 片段重組（recombination），但下列那一項是TCR 基因重組時比較少發生的現象？\n(A)基因遺傳多個V 基因片段\n(B)啟動RAG（recombination-activating gene）的活性\n(C)可能產生迴文添加（palindromic-addition）的現象\n(D)體超突變（Somatic hypermutation）"},
+{答案:"B",題目:"格蘭氏陰性菌細胞壁成分中的脂多醣體（Lipopolysaccharide, LPS）是很強的免疫刺激物質。生物體感受到LPS 的刺激時會產生血壓降低，體溫上升的症狀。有時甚至會導致休克。主要產生體溫上升的免疫細胞和媒介物質，下列何者最為重要？\n(A)自然殺手細胞產生的第一型干擾素 \n(B)巨噬細胞產生的IL-1\n(C)T 細胞產生的IL-4 \n(D)樹突細胞產生的IL-10"},
+{答案:"C",題目:"B 細胞於結合抗原活化時，因為沒有獲得T 細胞協助的遺傳疾病：高IgM 症候群（hyper-IgMsyndrome），常是因為那一個基因的缺損所致？\n(A)DNA helicase \n(B)Bruton’s tyrosine kinase（Btk）\n(C)CD40 ligand（CD40L） \n(D)Recombination-activating gene（RAG）"},
+{答案:"B",題目:"一個新生兒有下列何種疾病時，一定要避免卡介苗的施打？\n(A)免疫球蛋白低下症 \n(B)嚴重混合性免疫功能缺損\n(C)肺結核家族史 \n(D)巨細胞病毒胎內感染"},
+{答案:"D",題目:"李女士在健康檢查時血液中的antinuclear antibody（ANA）價數達到1：8（titer 1：8），她沒有身體不適，也沒有其他的檢驗值異常。出現ANA 自體抗體的意義為何？\n(A)應是檢驗錯誤，需重新抽血再測一次\n(B)李女士已得到紅斑性狼瘡\n(C)李女士即將於近期發病，得到紅斑性狼瘡\n(D)某種低程度的自體免疫性是身體正常免疫功能運作的一部分"},
+{答案:"B",題目:"陳老師從小就常因過敏性氣喘發作就醫。他帶領小學生畢業旅行，在晚上9 時因為頑皮的小朋友在睡前打枕頭戰，接觸到塵蟎過敏原而感到不適，但在使用氣管擴張劑後改善。陳老師在凌晨4 時因為氣喘又嚴重發作被送到急診處就診。到急診時最合乎當時情形的免疫機轉為何？\n(A)第四型（細胞免疫反應）的過敏反應 \n(B)第一型（立即免疫反應）的晚期反應\n(C)自體免疫抗體攻擊肺泡基底膜 \n(D)過敏原接觸導致免疫缺損引發細菌性肺炎"},
+
+
+
+
+{答案:"C",題目:"下列有關先天性免疫反應（innate immune responses）之敘述，何者錯誤？\n(A)微生物引起的發炎反應屬於先天性免疫（innate immunity）\n(B)病原菌之分子型式（pathogen-associated molecular patterns, PAMPs）引發先天性免疫反應\n(C)辨識PAMPs 之受器（receptors）與專一性之抗原受體（antigen receptor）類似，需經過基因重組後才能表現其蛋白質\n(D)主要由吞噬細胞（phagocytes）執行"},
+{答案:"C",題目:"下列何種免疫細胞可比較有效的消滅已侵入宿主細胞內的病毒（intracellular virus）？\n(A) B 淋巴細胞 \n(B)巨噬細胞（Macrophage）\n(C)毒殺性T 淋巴細胞（Cytotoxic T cell） \n(D)樹突狀細胞（Dendritic cell）"},
+{答案:"C",題目:"有關 T 細胞上的CD4 與CD8 分子的敘述，何者最正確？\n(A) CD4 的結構是由2 條不同胜肽鏈所構成\n(B)這2 種分子都可以直接結合抗原蛋白片段\n(C)這2 種分子均可與組織相容性複合體（MHC）分子相結合\n(D) CD4 及CD8 分子皆沒有參與T 細胞的活化訊號傳遞系統"},
+{答案:"D",題目:"王先生於 SARS 流行期間到大陸進行商務旅行，在香港停留一晚後返臺。回國後第2 天晚上，即高燒至40℃不退；經X 光檢查，肺部有瀰漫性發炎現象。若抽血檢驗，預期可以測得對SARS 冠狀病毒（SARS-coronavirus）的那一種抗體亞型？\n(A) IgA \n(B) IgE \n(C) IgG \n(D) IgM"},
+{答案:"C",題目:"下列那一種 T 細胞是成熟且具有輔助（helper T cell）的功能？\n(A)TCRγ:δ CD4-CD8+ \n(B)TCRα:β CD4+CD8+\n(C)TCRα:β CD4+CD8- \n(D)TCRα:β CD4-CD8+"},
+{答案:"B",題目:"CD4+ T細胞活化的過程中，除需要signal 1 外，還需要適當的signal 2，下列對signal 2 的敘述，何者錯誤？\n(A)CD4+ T細胞會表現CD28 與抗原呈現細胞的B7 分子結合，使CD4+ T細胞進入活化狀態\n(B)如果CD4+ T細胞與抗原呈現細胞結合時，缺少signal 2 的訊號，CD4+ T細胞主要會進行凋亡作用（apoptosis）\n(C)如果CD4+ T細胞表現CTLA-4 分子與抗原呈現細胞的B7 分子結合，主要會導致CD4+ T細胞失能（anergy）\n(D) CD28 與CTLA-4 分子皆會與B7 分子結合，但是CTLA-4 與B7 的親和力高於CD28"},
+{答案:"D",題目:"人體中有二大類樹突細胞（dendritic cell），一類為conventional dendritic cell，另一類為plasmacytoiddendritic cell。下列有關這二類樹突細胞的敘述，何者錯誤？\n(A) Plasmacytoid dendritic cell 會表現大量的TLR-7 與TLR-9\n(B)遇到病毒時，plasmacytoid dendritic cell 會分泌大量的IFN-α 及IFN-β\n(C) Conventional dendritic cell 主要功能為呈現抗原並活化T 細胞\n(D)這二類樹突細胞特徵不同，並不會互相調控對方的功能"},
+{答案:"C",題目:"下列那一種免疫球蛋白能夠通過胎盤，提供新生兒對抗病原菌保護力？\n(A) IgA \n(B) IgE \n(C) IgG \n(D) IgM"},
+{答案:"A",題目:"人類個體受到人類免疫缺損病毒（HIV）攻擊後會導致免疫功能下降，造成次發免疫功能缺損（後天性免疫缺乏症候群，通稱AIDS）。AIDS 病患經常發現的皮膚癌Kaposi 肉瘤，其直接成因為何？\n(A) Kaposi 肉瘤疱疹病毒 \n(B)人類疱疹病毒第一型（HHV-1）\n(C)免疫球蛋白血中濃度太低 \n(D)皮膚中B 型肝炎病毒蛋白質堆積"},
+{答案:"A",題目:"輸血治療是現代醫療上重要的突破。以往沒有方便的檢測方法時，常因血型的不相容而產生嚴重的輸血不良反應。下列何種紅血球捐血者和受血者的組合會產生不相容反應？\n(A)捐血者：AB 型，受血者：A 型 \n(B)捐血者：O 型，受血者：B 型\n(C)捐血者：B 型，受血者：AB 型 \n(D)捐血者：O 型，受血者：AB 型"},
+{答案:"D",題目:"志玲每次戴了含鎳的項鍊表演後幾天，就會在接觸的地方產生癢疹。皮膚科醫師認為是免疫反應產生的過敏性皮膚炎。志玲翻查教科書後發現鎳原子太小，應該不會被抗體或T 細胞接受體辨識。志玲產生癢疹的合理解釋應該為何？\n(A)鎳可以刺激Toll-like 接受體的訊息傳遞\n(B)鎳本身可以刺激T 細胞有絲分裂\n(C)鎳本身可以刺激樹突細胞，所以是好的佐劑（adjuvant）\n(D)鎳和承載體（carrier）蛋白質結合變成完整的抗原"},
+{答案:"B",題目:"40 餘歲孕婦患有甲狀腺功能過高、出現抗促甲狀腺荷爾蒙受體抗體（anti-TSH receptor antibody）的葛瑞夫氏症（Graves’ disease）。順利生產後，發現小嬰孩2000 公克重，易受驚，極不易入睡，喝奶量低，檢查體內亦有抗促甲狀腺荷爾蒙受體抗體。原因為何？\n(A)本例是因為葛瑞夫氏症的遺傳所致\n(B)母親的自體免疫疾病之抗促甲狀腺荷爾蒙受體抗體是IgG，能通過胎盤，而暫時引起小嬰孩的病徵\n(C)葛瑞夫氏症的特性引起小嬰孩體內的CD4+ CD25+調節型T細胞（CD4+ CD25+ Treg細胞）增加\n(D)葛瑞夫氏症的特性引起小嬰孩體內的抗乙醯膽鹼受體抗體（anti-acetylcholine receptor antibody）增加"},
+{答案:"D",題目:"目前由於免疫抑制劑的進步，移植的腎臟在接受者體內一年存活率達 90%以上，五年亦達70%左右，但是長期存活率並未有顯著突破。有關移植的腎臟長期的變化，下列那一項敘述錯誤？\n(A)移植的腎臟顯示小動脈硬化，腎絲球及腎小管纖維化及萎縮\n(B)巨噬細胞侵入移植腎臟的血管及組織，引起慢性炎症反應\n(C)長期使用環孢靈素（cyclosporin A），導致腎臟組織的環孢靈素毒性變化\n(D)由於接受者體內在移植前已經存在的抗體，攻擊移植腎臟的內皮細胞，引起小血管阻塞"},
+
+
+
+
+{答案:"A",題目:"免疫球蛋白（immunoglobulin, Ig）的分子結構中，那個區域最具多樣性序列（hyper-variable sequence）？\n(A) CDR（complementarity-determining region） \n(B) CL（constant region of light chain）\n(C) Fc（fragment crystallizable） \n(D) hinge region"},
+{答案:"C",題目:"有關不同類型（isotype）免疫球蛋白在人體內分布的情形，下列敘述何者正確？\n(A)血清中含量最高的是IgA \n(B)腸胃道黏膜中含量最高的為IgE\n(C)體組織液中有高含量的IgG \n(D) IgM 可以穿過胎盤，保護胎兒"},
+{答案:"D",題目:"下列何種檢驗常用來預測超急性排斥（hyperacute graft rejection）之發生與否？\n(A)混合淋巴球反應（mixed lymphocyte reaction）\n(B)免疫球蛋白（immunoglobulin）定量分析\n(C)淋巴球表面標記（lymphocyte surface marker）分析\n(D)既存抗體（preexisting antibody）偵測試驗"},
+{答案:"C",題目:"下列那種細胞最不可能與維持oral tolerance 有關？\n(A)第三型輔助性T 細胞（TH3） \n(B)調節性T 細胞（regulatory T cell）\n(C)第十七型輔助性T 細胞（TH17） \n(D)第二型輔助性T 細胞（TH2）"},
+{答案:"B",題目:"Toll-like receptor 4 是辨識細菌的何種成分？\n(A) lipopeptide \n(B) lipopolysaccharide \n(C) DNA \n(D) RNA"},
+{答案:"A",題目:"裸鼠（nude mice）有嚴重的免疫缺損，請問裸鼠的免疫缺損和下列那一種人類的疾病最類似？\n(A) DiGeorge syndrome \n(B) common variable immunodeficiency\n(C) severe combined immunodeficiency \n(D) Omenn syndrome"},
+{答案:"C",題目:"由菊花花粉中分離出一種蛋白質，可被50%以上菊花過敏病人血清中的IgE 抗體所辨識，此蛋白質最可能的特性為何？\n(A)分子量大於150KD \n(B)水溶性差\n(C)具蛋白水解酵素（protease）功能 \n(D)容易刺激T 細胞產生IFN-γ"},
+{答案:"C",題目:"與過敏性氣喘好發率有關的衛生假說（hygiene hypothesis），下列那一項敘述最正確？\n(A)遺傳因子與發病與否最相關\n(B)飲食與發病與否最相關\n(C)嬰幼兒時期遭受病毒或是細菌感染，可降低發病率\n(D)生長在已開發國家比起未開發國家，發病率往往較低"},
+{答案:"B",題目:"下列那一種免疫球蛋白受器常表現在肥大細胞（mast cell）表面上，並在結合IgE 與過敏原後，可引發過敏反應？\n(A) FcαRI \n(B) FcεRI \n(C) FcγRI \n(D) FcγRIII"},
+{答案:"C",題目:"如果孕婦的血型是AB 型Rh 陰性，而胎兒的血型是B 型Rh 陽性，關於這個懷孕的健康風險，下列何者正確？\n(A)胎兒的不同血型血球會攻擊母體，造成母親的自體免疫疾病\n(B)如果母親第一次懷孕，本次懷孕胎兒受到母體免疫系統攻擊的機會增加\n(C)如果母親之前懷過與本次懷孕同血型的胎兒，本次懷孕胎兒受到母體免疫系統攻擊的機會增加\n(D)胎兒產生的抗體在懷孕末期會經過胎盤攻擊母體細胞"},
+{答案:"BC",題目:"治療類風濕性關節炎的生物製劑如抗腫瘤壞死因子α 抗體（anti-TNF-α antibodies）及人類腫瘤壞死因子受體蛋白質分子（recombinant human TNF receptor, etanercept），效果顯著，但罹患下列何種疾病的機率增加？\n(A)人類免疫不全病毒感染（human immunodeficiency virus infection）\n(B)結核病（tuberculosis）\n(C)多發性硬化症（multiple sclerosis）\n(D)植入物抗宿主疾患（graft-versus-host disease）"},
+{答案:"D",題目:"干擾素能阻礙微生物在細胞內繁殖。下列何者歸類於第二類干擾素？\n(A) IL-6 \n(B) IFN-α \n(C) IFN-β \n(D) IFN-γ"},
+{答案:"C",題目:"在未致敏（unsensitized）的病患，進行器官移植手術，初期的排斥反應與何者有關？\n(A)捐贈者的T 細胞 \n(B)捐贈者的自然殺手細胞（natural killer cell）\n(C)捐贈者的樹狀細胞（dendritic cell） \n(D)捐贈者的漿細胞（plasma cell）"},

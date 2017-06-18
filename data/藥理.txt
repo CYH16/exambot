@@ -1,0 +1,368 @@
+﻿{答案:"D",題目:"下列有關於facilitated diffusion之敘述，何者錯誤？\n(A)需要carrier媒介\n(B)會飽和\n(C)對某些化合物具選擇性\n(D)需消耗能量"},
+{答案:"送分",題目:"藥物清除率與下列何因子無關？\n(A)Volume of distribution(Vd)\n(B)Albumin concentration\n(C)Capacity-limited protein binding\n(D)Alpha1-acid glycoprotein concentration"},
+{答案:"C",題目:"下列有關於藥物安全性試驗之敘述，何者正確？\n(A)Subacute toxicity，通常使用2種動物，2種給藥途徑。主要是測試其no-effect dose以及maximum tolerate dose\n(B)Acute toxicity，使用3種劑量，2種動物。主要是測試其生化以及生理作用\n(C)Mutagenic potential，主要測試藥物對細菌及哺乳類動物細胞之genetic stability\n(D)Carcinogenic potential 只需要使用1種動物"},
+{答案:"送分",題目:"下列藥物何者不經由腎臟排除？\n(A)Cephazolin\n(B)Tobramycin\n(C)Chloramphenicol\n(D)Imipenem"},
+{答案:"AD",題目:"下列有關Imipenem之敘述，何者錯誤？\n(A)屬於β-lactamase抗性之抗菌劑\n(B)抗菌範圍包括Gram positive和Gram negative菌和厭氣（Anaerobic）菌\n(C)主要由腎臟排除，一般與Cilastatin合用\n(D)藥效佳，可當第一線藥物來治療一般感染症"},
+{答案:"B",題目:"下列何者為一種抑制細菌蛋白質合成的抗菌藥物，曾被用來治療Bacteroides fragilis感染所引起的腹部膿腫，但很容易產生結腸炎？\n(A)Clarithromycin\n(B)Clindamycin\n(C)Minocycline\n(D)Ticarcillin"},
+{答案:"AB",題目:"下列何種抗凝血藥物主要是經由肝臟代謝？\n(A)Argatroban\n(B)Enoxaparin\n(C)Fondaparinux\n(D)Lepirudin"},
+{答案:"C",題目:"下列有關 danazol 的藥理學作用描述，何者錯誤？\n(A)一種經人工合成的睪固酮（testerone）\n(B)主要用於子宮內膜異位症（endometriosis）及良性乳房纖維囊腫（fibrocystic breastdisease）患者\n(C)具有抑制芳香環轉化酶（aromatase）的活性，進而抑制雌激素的合成\n(D)具有肝毒性"},
+{答案:"D",題目:"下列有關持續使用促性腺激素釋放激素（gonadotropin releasing hormone; GnRH）模擬藥物時會發生的副作用描述，何者錯誤？\n(A)婦女長期使用時容易發生卵巢囊腫（ovarian cysts）的現象，但停藥後即可以改善\n(B)長期皮下注射給藥時容易發生全身過敏性皮膚炎（generalized hypersensitivitydermatitis）\n(C)婦女長期使用時容易降低骨質密度及發生骨質疏鬆（osteoporosis）的情形\n(D)長期使用時容易發生中樞性性早熟（central precocious puberty）的情形"},
+{答案:"C",題目:"在臨床上有一部分的小孩因類胰島素成長因子（insulin-like growth factor; IGF-1）的缺乏，因此造成生長發育遲緩的現象，下列何種藥物可以用來促進其生長發育？\n(A)重組人類生長激素（recombinant human growth hormone）\n(B)Octreotide\n(C)Mecasermin\n(D)Pegvisomant"},
+
+
+
+
+{答案:"C",題目:"下列何項藥物可以用來治療不孕症？\n(A)Mifepristone\n(B)Danazol\n(C)Clomiphene\n(D)Flutamide"},
+{答案:"D",題目:"下列延長動作電位之抗心律不整藥物，何者誘發Torsade de Pointes之心室心律不整機率最小？\n(A)Procainamide\n(B)Quinidine\n(C)Ibutilide\n(D)Amiodarone"},
+{答案:"B",題目:"那一種抗心律不整藥物最常有臉紅、胸悶及呼吸急迫之副作用？\n(A)Propafenone\n(B)Adenosine\n(C)Procainamide\n(D)Atenolol"},
+{答案:"C",題目:"那種藥物會抑制IKr channel而使心臟組織動作電位持續時間延長？\n(A)Atenolol\n(B)Esmolol\n(C)Sotalol\n(D)Carvedilol"},
+{答案:"B",題目:"下列何種受體在血管內皮細胞上被活化，會使內皮細胞釋放內皮衍生舒張因子（EDRF）而產生血管舒張作用？\n(A)Muscarinic M2\n(B)Muscarinic M3\n(C)Muscarinic M4\n(D)Nicotinic"},
+{答案:"A",題目:"下列何種藥物，最適合用於治療因為誤食Inocybe屬毒蕈之中毒？\n(A)Atropine\n(B)Homatropine\n(C)Ipratropium\n(D)Pralidoxime"},
+{答案:"送分",題目:"當病患使用tetracycline治療時，併用下列何種藥物最會干擾其吸收？\n(A)CaCO3\n(B)Al(OH)3\n(C)Mg(OH)2\n(D)NaHCO3"},
+{答案:"C",題目:"下列何種NSAIDs藥物，可用於取代colchicine，作為第一線痛風的用藥？\n(A)Aspirin\n(B)Acetaminophen\n(C)Indomethacin\n(D)Ketorolac"},
+{答案:"C",題目:"下列有關抗癲癇藥物oxcarbazepine的敘述，何者錯誤？\n(A)主要靠其代謝物10-hydroxy-carbazepine（MHD）來產生抗癲癇作用\n(B)其藥理學作用方式與carbamazepine相似，但相對嚴重的副作用較少發生\n(C)其比carbamazepine具有較強的誘發肝臟細胞色素P450活性的作用\n(D)使用oxcarbazepine較carbamazepine容易發生低鈉血症（hyponatremia）"},
+{答案:"B",題目:"下列那一種抗癲癇藥物對於緩解重積性癲癇（status epilepticus）的效果最佳？\n(A)ethosuximide\n(B)diazepam\n(C)topiramate\n(D)tiagabine"},
+
+
+
+
+{答案:"C",題目:"下列那一種抗癲癇藥物不能使用於失神性癲癇（小發作）的治療？\n(A)ethosuximide\n(B)valproate\n(C)phenytoin\n(D)lamotrigine"},
+{答案:"D",題目:"下列何種藥物不屬於sedatives-hypnotics？\n(A)Diazepam\n(B)Lorazepam\n(C)Pentobarbital\n(D)Morphine"},
+{答案:"C",題目:"關於chlorpromazine的敘述，下列何者錯誤？\n(A)可以用來治療類精神疾病\n(B)為一種dopamine受體的拮抗劑\n(C)具有高度成癮性\n(D)會發生姿態性低血壓"},
+{答案:"送分",題目:"下列何者不屬於amphetamine的禁斷現象？\n(A)渴望獲得藥物（craving for drugs）\n(B)疲倦（lassitude）\n(C)過食症（hyperphagia）\n(D)失眠症（insomnia）"},
+{答案:"B",題目:"下列何種藥物是acetaminophen中毒時的最佳解毒劑？\n(A)Atropine\n(B)Acetylcysteine\n(C)Physostigmine\n(D)Pralidoxime"},
+
+
+
+
+{答案:"C",題目:"下列何者不是Phase I的代謝反應？\n(A)Oxidation\n(B)Hydrolysis\n(C)Conjugation\n(D)Reduction"},
+{答案:"D",題目:"下列何種藥物在肝臟的快速代謝，何者與肝血流量（blood flow-limited）無關？\n(A)Alprenolol\n(B)Lidocaine\n(C)Isoniazid\n(D)Aspirin"},
+{答案:"B",題目:"關於抗黴菌用藥ketoconazole與 fluconazole之比較，下列敘述何者錯誤？\n(A)Ketoconazole會抑制人類 cortisol之生成，fluconazole則較不會\n(B)Ketoconazole可治療由黴菌引起的腦膜炎，fluconazole則無法治療中樞性黴菌感染\n(C)Ketoconazole主要由肝臟代謝而失去藥效，fluconazole則由腎臟排出\n(D)Ketoconazole會抑制人類肝臟 cytochrome P450 之活性，fluconazole則較不會"},
+{答案:"D",題目:"林小妹罹患血癌，因長時間以傳統癌症治療藥物治療後，免疫力降低，為避免口腔內念珠菌之伺機性感染，常用下列何種藥物來預防？\n(A)Griseofulvin\n(B)Miconazole\n(C)Terbinafine\n(D)Nystatin"},
+{答案:"C",題目:"下列何種藥物與病毒包膜蛋白結合，使得病毒與宿主細胞膜無法融合？\n(A)Ribavirin\n(B)Adefovir\n(C)Enfuvirtide\n(D)Abacavir"},
+{答案:"B",題目:"Clopidogrel之拮抗血小板凝集作用經由何種機制？\n(A)提升血小板胞內之c-AMP\n(B)ADP receptor之拮抗\n(C)Fibrinogen receptor（即醣蛋白IIb/IIIa）之拮抗\n(D)Thromboxane receptor之拮抗"},
+{答案:"A",題目:"下列何種藥物不屬於Fibrinolysis之拮抗劑？\n(A)Hirudin\n(B)Aminocaproic acid\n(C)Tranexamic acid\n(D)Aprotinin"},
+{答案:"C",題目:"下列有關 tamoxifen 的藥理學作用描述，何者錯誤？\n(A)為一種為非類固醇的抗雌激素，藉由與雌激素受體結合，進而抑制內生性雌激素作用\n(B)廣泛地被使用來治療乳癌患者\n(C)使用可導致停經後婦女之血中總膽固醇及低密度脂蛋白濃度升高\n(D)具有降低停經後婦女腰椎骨密度降低的風險"},
+{答案:"C",題目:"5歲男童因嚴重腦部創傷後一年就診，小兒科醫師發現其嚴重地發育遲緩，並且生化檢測發現其明顯的生長激素（growth hormone）分泌不足，因此投予生長激素治療。在治療階段中發現其血中生長激素濃度已達正常，但生長遲緩情形未見改善，下列何者解釋可能可以用來說明生長激素替代治療無效的原因？\n(A)其可能體制素（somatostatin）分泌過量\n(B)其可能生長激素受體的表現量不足\n(C)其可能發生繼發性甲狀腺機能減退（secondary hypothyroidism）\n(D)其可能生長激素在體內的代謝速率過快"},
+{答案:"B",題目:"下列有關治療甲狀腺功能低下症（hypothyroidism）藥物levothyroxine的藥理作用描述，何者錯誤？\n(A)Levothyroxine不能同時與鈣和含鋁類的制酸劑合併使用\n(B)Levothyroxine對於藥物如amiodarone所引起的甲狀腺功能低下症治療效果不佳\n(C)Levothyroxine可以使用於懷孕的甲狀腺功能低下症婦女\n(D)黏液性水腫昏迷（myxedema coma）可以利用levothyroxine來治療"},
+
+
+
+
+{答案:"BC",題目:"格雷夫斯病（Graves' disease）可以選擇下列何種藥物來治療？\n(A)Levothyroxine\n(B)Methimazole\n(C)Propranolol\n(D)Octreotide"},
+{答案:"B",題目:"下列何種藥物可以用來治療垂體性尿崩症（pituitary diabetes insipidus）？\n(A)Atosiban\n(B)Desmopressin\n(C)Conivaptan\n(D)Oxytocin"},
+{答案:"B",題目:"下列那一樣藥物會抑制Carbonic anhydrase而減少眼房液之形成？\n(A)Amiloride\n(B)Dorzolamide\n(C)Torsemide\n(D)Bumetanide"},
+{答案:"C",題目:"下列何者可藉由抑制磷酸雙酯酶（phosphodiesterase），而增加細胞內 cGMP 濃度，致使平滑肌舒張？\n(A)Misoprostol\n(B)Nitroglycerine\n(C)Sildenafil\n(D)Theophylline"},
+{答案:"A",題目:"下列藥物中何者可以降低腎素（renin）的活性，進而減少 angiotensin II 之生成？\n(A)Aliskiren\n(B)Hydrochlorothiazide\n(C)Losartan\n(D)Ramipril"},
+{答案:"B",題目:"下列何種受體在交感神經末梢被活化後，會促進正腎上腺素的釋放？\n(A)α2\n(B)β2\n(C)Dopamine D2\n(D)Muscarinic M2"},
+{答案:"B",題目:"下列何種藥物，最適合用於治療手術後尿滯留？\n(A)Atropine\n(B)Bethanechol\n(C)Pilocarpine\n(D)Rivastigmine"},
+{答案:"D",題目:"下列何種藥物最不適合用於預防「運動引起的氣管痙攣（EIB）」？\n(A)Cromolyn\n(B)Terbutaline\n(C)Salmeterol\n(D)Theophylline"},
+{答案:"A",題目:"下列何種藥物具有抑制xanthine oxidase，用於治療慢性痛風？\n(A)Febuxostat\n(B)Probenecid\n(C)Sulfinpyrazone\n(D)Colchicine"},
+{答案:"B",題目:"下列何種藥物可作為墮胎藥？\n(A)Alprostadil\n(B)Dinoprostone\n(C)Epoprostenol\n(D)Iloprost"},
+
+
+
+
+{答案:"A",題目:"Carbidopa與Levodopa合併用藥的原因為何？\n(A)抑制周邊Dopa decarboxylase\n(B)增加3-O-Methyldopa的量\n(C)增加Tyrosine hydroxylase的活性\n(D)抑制周邊COMT的活性"},
+{答案:"B",題目:"下列有關酒精藥理作用之描述，何者錯誤？\n(A)酒精可以經由胃腸道完全吸收\n(B)經由靜脈注射的方式投與相同劑量的酒精時，女性血漿中的酒精濃度較男性高\n(C)酒精的代謝作用為零級反應（zero-order kinetics）\n(D)Acetaldehyde為酒精代謝的初級產物"},
+{答案:"C",題目:"下列何種藥物是屬於三價砷（arsenic），可用於治療 advanced African trypanosomiasis？\n(A)Dimercaprol\n(B)Succimer\n(C)Melarsoprol\n(D)Ferroxamine"},
+{答案:"B",題目:"有一位6歲小女孩在上課時經常發生目光呆滯、凝視等現象，經神經科醫師以腦波檢查發現其腦波中會反覆性的出現spike-wave的波形。初步確認其為一種癲癇症兆，應選用下列何種藥物治療最適宜？\n(A)Carbamazepine\n(B)Valproic acid\n(C)Phenytoin\n(D)Diazepam"},
+{答案:"C",題目:"承上題，投予下列那一種抗癲癇藥物於此病童(應為失神性發作癲癇之患者)時，反而會增加其癲癇發作？\n(A)Valproic acid\n(B)Lamotrigine\n(C)Phenytoin\n(D)Ethosuximide"},
+
+
+{答案:"D",題目:"有關於細胞訊息傳遞之機轉，下列何者錯誤？\n(A)脂溶性ligand可以直接穿越細胞膜，並且與細胞內receptor結合產生作用\n(B)有些transmembrane receptor 本身即具有酵素活性，可以經由與ligand結合後活化\n(C)有些transmembrane receptor與ligand結合後，可以活化protein tyrosine kinase\n(D)NMDA glutamate receptor屬於GPCR（G-protein coupled receptor）"},
+{答案:"D",題目:"下列何種藥物不適用於vancomycin-resistant Enterococcus faecium之感染治療？\n(A)linezolid\n(B)tigecycline\n(C)quinupristin-dalfopristin\n(D)teicoplanin"},
+{答案:"A",題目:"下列抗癌藥中何者因可以和vascular endothelial growth factor（VEGF）結合，而抑制血管新生（angiogenesis），可作為治療metastatic colorectal cancer之藥物？\n(A)bevacizumab\n(B)cetuximab\n(C)gefitinib\n(D)imatinib"},
+{答案:"C",題目:"下列何者為使用sulfonamides最常見副作用？\n(A)神經症狀如頭痛及嗜睡\n(B)新生兒黃疸\n(C)皮膚過敏反應\n(D)肝炎"},
+{答案:"C",題目:"下列何種藥物主要抑制腸細胞對cholesterol攝取作用，可與statin類藥物合用，以降低LDL之加成藥效？\n(A)Gemfibrozil\n(B)Niacin\n(C)Ezetimibe\n(D)Cholestyramine"},
+{答案:"C",題目:"有關heparin之敘述，下列何者正確？\n(A)具有溶血栓活性\n(B)可抑制血小板凝集反應\n(C)可結合至antithrombin III，以達抗凝血活性\n(D)可抑制肝臟中vitamin K之再生"},
+{答案:"C",題目:"有關vitamin D的敘述，下列何者錯誤？\n(A)主要經由皮膚在紫外線輻射下由7-脫氫膽固醇（7-dehydrocholesterol）轉化而來\n(B)其活性代謝產物會增加血漿中鈣離子濃度\n(C)其活性代謝產物會降低血漿中磷酸鹽（phosphate）濃度\n(D)其衍生物19-nor-1α,25-dihydroxyvitamin D2具有抑制副甲狀腺激素（parathyroid hormone ; PTH）的釋放作用"},
+{答案:"BC",題目:"有關methimazole的藥理作用，下列何者錯誤？\n(A)主要透過抑制甲狀腺過氧化物酶催化反應（thyroid peroxidase-catalytic reaction）及碘有機化（iodine organification）的作用，來抑制甲狀腺素（triiodothyronine及tetraiodothyronine）的合成\n(B)會抑制週邊組織，將triiodothyronine及tetraiodothyronine進行脫碘化作用（deiodination）\n(C)其藥效起始作用（onset）相當快速，通常在服藥後即可產生治療效果\n(D)使用最常產生的副作用是斑丘疹搔癢皮疹（maculopapular pruritic rash）"},
+{答案:"A",題目:"有關liotrix的藥理作用描述，下列何者錯誤？\n(A)為L-thyroxine與liothyronine以10:1的比例組合而成的複合藥物\n(B)具有治療甲狀腺功能低下症的藥理作用\n(C)可以使用於懷孕婦女\n(D)口服有效"},
+{答案:"C",題目:"有關糖皮質激素（glucocorticoids）作用的敘述，下列何者錯誤？\n(A)糖皮質激素具有增加血中葡萄糖與脂肪酸之作用\n(B)在空腹狀態糖皮質激素具有促進糖質新生（gluconeogenesis）的作用\n(C)投予短效型糖皮質激素會減少循環系統中的嗜中性白血球（neutrophils）的數目，反之，淋巴細胞（lymphocytes）的數目會增加\n(D)糖皮質激素直接塗抹在皮膚表面會造成局部血管收縮的作用"},
+
+
+
+
+{答案:"C",題目:"若急性心衰竭病人同時有血鈉過低之症狀，則下列何種藥物是最佳選擇？\n(A)spironolactone\n(B)losartan\n(C)conivaptan\n(D)eplerenone"},
+{答案:"C",題目:"下列那一種利尿劑對腎因性尿崩症（nephrogenic diabetes insipidus）可減少其多尿及煩渴之症狀？\n(A)amiloride\n(B)torsemide\n(C)hydrochlorothiazide\n(D)brinzolamide"},
+{答案:"A",題目:"下列關於 organic nitrates 之敘述何者錯誤？\n(A)可使心室 ejection time 增加\n(B)可能引發心搏過速，以及鈉離子和水分滯留問題\n(C)可使靜脈擴張，血液回流減少，降低心臟的前負荷（pre-load）\n(D)可使冠狀動脈擴張，血流重分布至缺血區，改善心絞痛症狀"},
+{答案:"C",題目:"副交感神經系統興奮會產生下列何種直接反應？\n(A)支氣管舒張\n(B)骨骼肌血管舒張\n(C)眼睛睫狀肌收縮\n(D)皮膚豎毛肌收縮"},
+{答案:"B",題目:"下列何種藥物的藥理作用機轉，是抑制膽鹼性神經釋放乙醯膽鹼？\n(A)amphetamine\n(B)botulinum toxin\n(C)cocaine\n(D)tubocurarine"},
+{答案:"D",題目:"下列何種藥物適合以靜脈注射方式，用於治療急性且嚴重的氣喘或是慢性肺阻塞（COPD）的病人？\n(A)cromolyn\n(B)tiotropium\n(C)montelukast\n(D)methylprednisolone"},
+{答案:"B",題目:"小孩患有氣喘，當發作時，須使用吸入性藥物來緩解或控制時，通常不建議使用下列何種藥物，以免影響其生長？\n(A)β2-agonists\n(B)corticosteroids\n(C)leukotrienes antagonists\n(D)antimuscarinic agents"},
+{答案:"D",題目:"下列何種non-steroid anti-inflammatory drugs（NSAIDs）藥物，主要是具有止痛作用，有時用來取代morphine，作為病人手術後的止痛劑？\n(A)indomethacin\n(B)ibuprofen\n(C)ketoprofen\n(D)ketorolac"},
+{答案:"A",題目:"下列non-steroid anti-inflammatory drugs （NSAIDs）藥物，何者不具有抗發炎作用？\n(A)acetaminophen\n(B)etodolac\n(C)ketoprofen\n(D)naproxen"},
+{答案:"C",題目:"下列何者非carbamazepine的臨床適應症？\n(A)癲癇（epilepsy）\n(B)三叉神經痛（trigeminal neuralgia）\n(C)憂鬱症（depression）\n(D)躁狂症（mania）"},
+
+
+
+
+{答案:"C",題目:"下列何者為benzodiazepine的競爭性拮抗劑？\n(A)pralidoxime\n(B)guanethidine\n(C)flumazenil\n(D)paraldehyde"},
+{答案:"B",題目:"使用下類那一種治療巴金森氏症藥物時，尿液及唾液經常會呈現褐色的狀況？\n(A)selegiline\n(B)levodopa\n(C)amantadine\n(D)bromocriptine"},
+{答案:"C",題目:"下列何者中毒時，在臨床上可用其抗體當作解毒劑？\n(A)cyanide\n(B)benzodiazepines\n(C)digoxin\n(D)isoniazid"},
+{答案:"C",題目:"60歲的癲癇病人，服用下列某一種抗癲癇藥物，在剛開始服用的前兩週其效果不錯，但服用四週後開始出現偶發性癲癇的發作，在進行血中藥物濃度檢測後，發現其藥物濃度隨服藥期間的延長而逐漸的遞減，可能服用下列那一種抗癲癇藥物？\n(A)gabapentin\n(B)ethosuximide\n(C)carbamazepine\n(D)primidone"},
+{答案:"C",題目:"承上題，其發生(服用carbamazepine兩周後效果不錯，但四周後有偶發性癲癇)的可能原因為何？\n(A)個體對於此藥物的敏感性差異所產生之結果\n(B)此藥物在長期使用後可能因為體內作用之受體數目減少，因此藥效遞減\n(C)此藥物在長期使用後可能因為誘發肝臟代謝酵素活性的升高，因此藥效遞減\n(D)此藥物在長期使用後可能因為抑制代謝此藥物之體內酵素活性，因此藥效遞減"},
+
+
+
+
+{答案:"送分",題目:"有關藥物的代謝敘述，下列何者錯誤？\n(A)葡萄柚汁會抑制triazolam在體內代謝\n(B)cimetidine會抑制propranolol在體內代謝\n(C)nortriptyline會抑制antipyrine在體內代謝\n(D)spironolactone會抑制digoxin在體內代謝"},
+{答案:"B",題目:"有關免疫抑制劑sirolimus（rapamycin）之敘述，下列何者錯誤？\n(A)可結合到FK506-binding protein\n(B)如同tacrolimus可以抑制calcineurin作用\n(C)比cyclosporine較少有腎功能損傷不良作用\n(D)抑制mTOR而抑制蛋白合成"},
+{答案:"A",題目:"Thiazolidinediones類降血糖藥物的主要作用機轉為何？\n(A)降低胰島素抗性（insulin resistance）的產生\n(B)促進胰島素的分泌作用\n(C)抑制胰島素被肝臟代謝分解作用\n(D)抑制peroxisome proliferator-activated receptor-gamma（PPAR-γ）受體的活性"},
+{答案:"B",題目:"Eplerenone之藥理作用敘述，何者錯誤？\n(A)會促進鹽分排除\n(B)會引起男性女乳症\n(C)會使血鉀增加\n(D)會抑制aldosterone之作用"},
+{答案:"A",題目:"下列那一類藥物可以使血管擴張（vasodilation）？\n(A)endothelin antagonists\n(B)kinin antagonists\n(C)neurotensin antagonists\n(D)vasopressin agonists"},
+{答案:"A",題目:"下列何者不是atropine的臨床用途？\n(A)治療狹角青光眼\n(B)使眼睛睫狀肌麻痺\n(C)手術時減少支氣管分泌\n(D)急性有機磷中毒之解救"},
+{答案:"C",題目:"下列何種non-steroidal anti-inflammatory drugs (NSAIDs)藥物，同時具有抑制cyclooxygenase和lipoxygenase的作用？\n(A)aspirin\n(B)etodolac\n(C)ketoprofen\n(D)naproxen"},
+{答案:"A",題目:"下列那一種麻醉劑，在可產生外科麻醉的濃度下，所需要的誘導時間最短？\n(A)nitrous oxide\n(B)benzodiazepines\n(C)methoxyflurane\n(D)halothane"},
+{答案:"D",題目:"下列何種受體的訊息傳遞不是經由GTP-binding protein（G protein）？\n(A)muscarinic receptor\n(B)glucagon receptor\n(C)histamine receptor\n(D)NMDA receptor"},
+{答案:"C",題目:"關於tetracyclines類抗生素之敘述，下列何者正確？\n(A)可結合至細菌之50S核醣體，而干擾蛋白質合成\n(B)常與制酸劑併用，以預防胃部不適\n(C)治療立克次體感染的首選藥物\n(D)doxycycline口服時，易受食物干擾吸收"},
+
+
+
+
+{答案:"A",題目:"下列cephalosporins中，何者可做為手術前（如頭頸部、心臟血管及胸腔、開顱手術等）預防性感染的首選藥物？\n(A)cefazolin\n(B)cefepime\n(C)ceftazidime\n(D)ceftriaxone"},
+{答案:"D",題目:"下列何種抗生素不是藉由抑制細菌之transpeptidase而干擾細胞壁之生成？\n(A)aztreonam\n(B)imipenem\n(C)nafcillin\n(D)bacitracin"},
+{答案:"B",題目:"抗癌藥合併療法ABVD治療何杰金氏淋巴瘤（Hodgkin's lymphoma），其中何者可以明顯抑制癌細胞之topoisomerase II，而產生細胞毒殺作用？\n(A)bleomycin\n(B)doxorubicin\n(C)vincristine\n(D)dacarbozine"},
+{答案:"B",題目:"有關免疫調節劑（immunomodulators）的作用機轉，下列何者不是TNF-α抑制劑？\n(A)infliximab\n(B)abatacept\n(C)etanercept\n(D)adalimumab"},
+{答案:"B",題目:"一位60歲婦人因心跳過快、呼吸急促和胸部疼痛而被送到急診部，最近兩天有呼吸急促、下痢、出汗及焦慮的症狀。醫生發現她兩個星期前服用的 methimazole已經沒有了，血中thyroid stimulating hormone （TSH）濃度小於0.04 mIU／mL （正常值為0.4 mIU/mL～4.0 mIU/mL），確認為甲狀腺風暴。下列何者為治療甲狀腺風暴的最佳藥物？\n(A)epinephrine\n(B)propranolol\n(C)radioactive iodine\n(D)amiodarone"},
+{答案:"D",題目:"一位患有第一型糖尿病的12歲兒童，因頭暈而被送到醫院。臨床實驗診斷有嚴重高血糖、酮酸中毒和血液pH=7.15。必須立即靜脈注射下列何者來控制酮酸中毒的症狀？\n(A)glyburide\n(B)tolbutamide\n(C)insulin glargine\n(D)crystalline zinc insulin"},
+{答案:"BD",題目:"可用於治療肺高壓（pulmonary hypertension）藥物的作用機轉，不包括下列何者？\n(A)endothelin antagonist\n(B)phosphodiesterase E5 inhibitor\n(C)soluble guanylyl cyclase activator\n(D)calcitonin gene-related peptide（CGRP）antagonist"},
+{答案:"B",題目:"下列何者不是alpha-receptor-blocking drugs 之臨床用途？\n(A)高血壓（hypertension）\n(B)注意力不足過動症（attention deficit hyperactivity disorder）\n(C)雷諾氏現象（Raynaud's phenomenon）\n(D)良性攝護腺肥大（benign prostatic hypertrophy）"},
+{答案:"D",題目:"下列何者需要被吸收進入胃壁細胞並堆積在其小管內之後，其代謝轉換的產物才具有不可逆地抑制H+/K+-ATPase的藥理作用？\n(A)metoclopramide\n(B)cimetidine\n(C)diphenoxylate\n(D)esomeprazole"},
+{答案:"A",題目:"下列藥物中何者可以靜脈給藥，而且最常用於手術後疼痛的治療？\n(A)ketorolac\n(B)meloxicam\n(C)sumatriptan\n(D)dextromethorphan"},
+
+
+
+
+{答案:"A",題目:"關於骨骼肌肉鬆弛劑rocuronium的藥理作用，下列何者錯誤？\n(A)可以經由口服投與\n(B)為非去極化肌肉鬆弛劑（nondepolarizing neuromuscular blocking drugs）\n(C)作用可以被neostigmine拮抗\n(D)可由肝臟代謝"},
+{答案:"D",題目:"關於抗癲癇藥物valproic acid作用的敘述，下列何者正確？\n(A)僅可用於失神發作，對其他類型的發作沒有效果\n(B)主要作用機轉為抑制鈉離子通道，與GABA系統無關\n(C)會增加許多抗癲癇藥物如phenytoin和carbamazepine的代謝\n(D)可用於治療躁鬱症以及預防偏頭痛"},
+{答案:"A",題目:"下列何種藥物可減少levodopa被周邊組織的decarboxylase代謝，降低levodopa的使用劑量及副作用？\n(A)carbidopa\n(B)ropinirole\n(C)amantadine\n(D)benztropine"},
+{答案:"A",題目:"思覺失調症（schizophrenia）的治療藥物有許多副作用，下列何種副作用與dopamine receptor的阻斷有關？\n(A)高泌乳素血症\n(B)口乾\n(C)姿勢性低血壓\n(D)視覺模糊"},
+{答案:"A",題目:"下列何者可能會導致低血壓、急性腸胃炎，甚至休克及代謝性酸中毒（metabolic acidosis）等中毒症狀？\n(A)急性無機砷中毒（acute inorganic arsenic poisoning）\n(B)急性無機汞中毒（acute inorganic mercury intoxication）\n(C)鉈鹽中毒（thallium salts intoxication）\n(D)放射性銫中毒（radioactive cesium（137Cs）intoxication）"},
+
+
+
+
+//103~104(1)
+{答案:"C",題目:"下列有關藥物動力學的敘述，何者錯誤？\n(A)酸性的藥物在鹼性尿液中較易排出\n(B)靜脈注射給藥沒有首渡效應（first-pass effect）\n(C)血漿蛋白結合力高的藥物比較不易與其他藥物產生交互作用\n(D)血中白蛋白（Albumin）量的改變會影響藥物的代謝"},
+{答案:"BC",題目:"有關藥物交互作用，何者錯誤？\n(A)Griseofulvin 會加強 warfarin 代謝        \n(B)Phenytoin 會加強 alprazolam 代謝\n(C)Ritonavir 會加強 midazolam 代謝        \n(D)Carbamazepine 會加強 itraconazole 代謝"},
+{答案:"D",題目:"下列何種藥物之抗藥菌，其抗藥機轉並非使用 Tet efflux pump  作用而排出菌體外，適用於嚴重之腹 腔感染？ \n(A)Doxycycline \n(B)Tetracycline        \n(C)Minocycline        \n(D)Tigecycline "},
+{答案:"B",題目:"一名育嬰授乳的婦女感染生殖器疱疹，下列何種藥物為治療這名婦女之首選藥物？ \n(A)Amantadine \n(B)Acyclovir        \n(C)Ritonavir        \n(D)Trifluridine "},
+{答案:"A",題目:"新生兒有細菌感染時，使用下列何種抗生素，應特別注意劑量勿大於 50 mg/kg/d，以免發生灰嬰症候 群？ \n(A)Chloramphenicol \n(B)Tetracycline        \n(C)Vancomycin        \n(D)Erythromycin "},
+{答案:"A",題目:"下列何者為 Nitrofurantoin 主要之副作用？\n(A)噁心        \n(B)耳聾        \n(C)腎功能不全        \n(D)抽搐（seizure）"},
+{答案:"B",題目:"下列何者屬於 anti-IgE 單株抗體（monoclonal antibody），可用於過敏性氣喘治療？ \n(A)Basiliximab \n(B)Omalizumab        \n(C)Abatacept        \n(D)Efalizumab "},
+{答案:"C",題目:"下列何種作用與低劑量 Aspirin 預防栓塞型中風（Stroke）有關？\n(A)抑制血管內皮細胞的 COX-2        \n(B)抑制血球細胞的 Lipoxygenase\n(C)抑制血小板的 COX-1        \n(D)抑制血小板的 Thromboxane A2 受體"},
+{答案:"B",題目:"下列抗血小板凝集藥物中，何者較易發生 Neutropenia 之不良作用？ \n(A)Clopidogrel \n(B)Ticlopidine        \n(C)Abciximab        \n(D)Dipyridamole "},
+{答案:"D",題目:"生長激素（growth hormone）具有促進脂肪和碳水化合物代謝的作用，主要係間接透過下列何種激素 的作用來產生的？\n(A)促甲狀腺激素（thyroid-stimulating hormone; TSH）\n(B)促腎上腺皮質激素（adrenocorticotropic hormone; ACTH）\n(C)促腎上腺皮質釋放激素（corticotropin-releasing hormone; CRH）\n(D)第一型類胰島素成長因子（insulin-like growth factor; IGF-1）"},
+
+
+
+
+{答案:"C",題目:"下列何種藥物使用時，可以明顯的改善甲狀腺機能亢進的臨床症狀，但不會降低血清中甲狀腺素濃 度？ \n(A)Levothyroxine \n(B)Methimazole        \n(C)Propranolol        \n(D)Propylthiouracil "},
+{答案:"C",題目:"下列有關糖皮質激素（glucocorticoids）作用的描述，何者錯誤？\n(A)高劑量的糖皮質激素會造成消化性潰瘍（peptic ulcer）的發生\n(B)長期使用糖皮質激素會抑制促腎上腺皮質激素（adrenocorticotropic hormone; ACTH）的釋放作用\n(C)高劑量的糖皮質激素具有降低顱內壓（intracranial pressure）的作用\n(D)糖皮質激素具有促進早產兒肺部發展的作用"},
+{答案:"B",題目:"那一種因基因異常引起之心律不整病人服用 mexiletine 最易誘發心律不整之產生？\n(A)LQT-3 病人        \n(B)Brugada Syndrome 病人\n(C)Familial atrial fibrillation 病人        \n(D)LQT-2 病人"},
+{答案:"C",題目:"下列關於 angiotensin converting enzyme inhibitors 之敘述何者正確？\n(A)可藉由抑制 bradykinin 及 substance P 之生成而降血壓\n(B)會造成反射性心搏過速，故不適用於治療心衰竭\n(C)可以治療糖尿病腎病變（diabetic nephropathy）\n(D)和留鉀利尿劑併用可以預防高血鉀症之發生"},
+{答案:"D",題目:"下列降血壓藥物中，何者可增加血管平滑肌細胞內 cGMP 濃度而使血管舒張？ \n(A)Minoxidil \n(B)Nifedipine        \n(C)Prazosin        \n(D)Sodium nitroprusside "},
+{答案:"B",題目:"下列何種藥物，最適合用於治療過敏性休克？\n(A)Dopamine        \n(B)Epinephrine        \n(C)Norepinephrine        \n(D)Phenylephrine "},
+{答案:"B",題目:"有關 propranolol 之敘述，下列何者錯誤？\n(A)非選擇性 β-adrenoceptor 拮抗劑        \n(B)口服之生體可用率極高\n(C)可穿過血腦障壁進入腦部        \n(D)使用於心肌梗塞病人可延長存活率 "},
+{答案:"C",題目:"下列那種藥物適合用於改善 Crohn’s disease 症狀，而且作用可達 12 週？ \n(A)Loperamide \n(B)Cholestyramine        \n(C)Infliximab        \n(D)Senna "},
+{答案:"B",題目:"Terfenadine 若合併下列何種藥物使用，最容易產生心室性心律不整（ventricular arrhythmias）？ \n(A)Carbachol \n(B)Erythromycin        \n(C)Scopolamine        \n(D)Loratadine "},
+{答案:"B",題目:"承上題，引起心律不整的原因(Terfenadine合併Erythromycin使用)，主要是由於阻斷下列何種通道？\n(A)Na+        \n(B)K+        \n(C)Ca2+        \n(D)Mg2+"},
+
+
+
+
+{答案:"送分",題目:"下列有關退化性老年癡呆症（Alzheimer’s disease）的描述，何者錯誤？\n(A)退化性老年癡呆症病人其前腦（basal forebrain）的膽鹼性（cholinergic）神經元有退化現象\n(B)退化性老年癡呆症病人的大腦皮質（cerebral cortex）及海馬迴（hippocampus）區域經常可以發現 類澱粉斑（amyloid plaques）的出現\n(C)臨床上可以使用乙醯膽鹼酯酶（Acetylcholinesterase）抑制劑來緩解其認知異常的症狀，但經常會 出現病人血壓上升的副作用\n(D)Memantine 為一種 N-methyl-D-aspartate 受體的阻斷劑，對於退化性老年癡呆症病人也具有治療的 效果"},
+{答案:"B",題目:"下列那一種藥物可以用來當作海洛因（heroin）成癮者的替代式治療（substitution therapy）藥物？ \n(A)naloxone \n(B)methadone \n(C)acamprosate \n(D)rimonabant "},
+{答案:"BD",題目:"下列那一種治療部分性癲癇（partial seizure）的藥物，常因為肝臟毒性的副作用，而減少其普遍使 用性？ \n(A)Diazepam \n(B)Felbamate        \n(C)Ethosuximide        \n(D)Valproic acid "},
+{答案:"B",題目:"下列那一種鎮靜催眠藥物在停藥後所產生的禁斷現象（withdrawal syndrome），較其他三者來的輕微 且較慢發生？ \n(A)Oxazepam \n(B)Prazepam        \n(C)Alprazolam        \n(D)Lorazepam "},
+{答案:"A",題目:"下列何種藥物是 cyanide 中毒時的最佳解毒劑？ \n(A)Hydroxocobalamin \n(B)Acetylcysteine        \n(C)Physostigmine        \n(D)Pralidoxime"},
+
+
+
+
+{答案:"D",題目:"下列何者不會作用於 ligand-gated channels？ \n(A)Acetylcholine \n(B)Serotonin \n(C)GABA \n(D)Interferon "},
+{答案:"D",題目:"下列有關藥物效應之敘述，何者正確？\n(A)治療指數（therapeutic index；T.I.）= ED50/LD50\n(B)ED50 之定義為使半數實驗動物死亡所需要的劑量\n(C)LD50 之定義為使半數實驗動物產生藥效所需的劑量\n(D)治療指數（therapeutic index；T.I.）比值越大表示該藥物的毒性越小"},
+{答案:"B",題目:"病人慢性長期服用 isoniazid + rifampin 治療肺結核，下列關於此二藥之作用機轉，何者正確？\n(A)Isoniazid 可以抑制致病菌細胞膜成分麥角脂醇（ergosterol）之生成\n(B)Rifampin 可以抑制致病菌細胞內 RNA 之生成\n(C)Isoniazid 可以抑制致病菌細胞內 DNA gyrase 之活性\n(D)Rifampin 可以抑制致病菌細胞壁成分 mycolic acid 生成"},
+{答案:"A",題目:"關於抗病毒藥物 zidovudine 之敘述，下列何者錯誤？\n(A)為 guanosine 類似物（analog）\n(B)為反轉錄酶抑制劑（reverse transcriptase inhibitor）\n(C)可以和 lamivudine 產生協同作用\n(D)可以用於治療懷孕期間人類免疫缺乏病毒（human immunodeficiency virus）感染問題"},
+{答案:"D",題目:"關於抗癌藥物所引起之毒性，下列配對何者正確？\n(A)Cyclophosphamide：周邊神經病變（peripheral neuropathy）\n(B)Doxorubicin：出血性膀胱炎（hemorrhagic cystitis）\n(C)Vincristine：肺纖維化（pulmonary fibrosis）\n(D)Cisplatin：腎毒性（nephrotoxicity）"},
+{答案:"B",題目:"下列藥物可經由細菌 Ribosomal 50S 之結合來抑制細菌蛋白之合成，何者例外？ \n(A)Telithromycin\n(C)Chloramphenicol \n(B)Tetracycline\n(D)Streptogramin "},
+{答案:"C",題目:"下列藥物的作用機轉乃拮抗血小板凝集之共通步驟，即 Fibrinogen 對活化血小板之醣蛋白 IIb/IIIa 之 結合反應。何者除外？ \n(A)Abciximab \n(B)Tirofiban \n(C)Ticlopidine \n(D)Eptifibatide "},
+{答案:"A",題目:"下列何項藥物用於治療 Thrombocytopenia 患者？\n(A)Interleukin-11（Oprelvekin）\n(C)G-CSF（Filgrastim） \n(B)Erythropoietin\n(D)GM-CSF（Sargramostim） "},
+{答案:"送分",題目:"下列何種免疫抑制劑，可優先選擇作用於 cytosine monophosphate dehydrogenase 而抑制 Lymphocyte中 guanosine 合成？ \n(A)Cyclosporine\n(C)Tacrolimus \n(B)Leflunomide\n(D)Mycophenolate mofetil "},
+{答案:"D",題目:"下列何種藥物為長效型的合成類固醇（synthetic corticosteroids）？ \n(A)Prednisone \n(B)Meprednisone \n(C)Triamcinolone \n(D)Dexamethasone "},
+
+
+
+
+{答案:"B",題目:"下列何種腎上腺皮質素拮抗劑的作用係透過抑制類固醇羥化（steroid hydroxylation）的作用來阻斷皮 質醇和皮質酮的生合成？ \n(A)Ketoconazole\n(C)Aminoglutethimide \n(B)Metyrapone\n(D)Mifepristone（RU-486） "},
+{答案:"B",題目:"下列有關生長激素（growth hormone）的作用描述，何者錯誤？\n(A)生長激素缺乏症可能發生於腦下垂體（pituitary）受損或下丘腦（hypothalamus）發生腫瘤的情況\n(B)生長激素缺乏症發生早期會出現高血糖（hyperglycemia）的情形，主要是抑制胰島素（insulin）的 分泌作用\n(C)雌二醇（estradiol）具有促進生長激素分泌作用\n(D)生長激素具有減少體內脂肪量及增加肌肉質量的作用"},
+{答案:"B",題目:"下列何種藥物可使血管平滑肌細胞內 cGMP 增加，加速 myosin light chains 去磷酸化（dephosphorylation）， 而致血管舒張？ \n(A)Adenosine \n(B)Amyl nitrite \n(C)Amlodipine \n(D)Atenolol "},
+{答案:"C",題目:"下列何者不是 verapamil 之主要藥理作用？\n(A)血管擴張        \n(B)抑制心臟收縮力\n(C)抑制癲癇發作        \n(D)抑制心臟 SA node 及 AV node 活性"},
+{答案:"A",題目:"關於 losartan 之敘述何者正確？\n(A)為 angiotensin II type 1 受體的拮抗劑，可產生血管擴張作用\n(B)會造成鈉離子與水分滯留於體內\n(C)引起咳嗽及血管性水腫（angioedema）的情形較 angiotensin-converting enzyme inhibitors 嚴重\n(D)常用於治療高血壓之孕婦"},
+{答案:"B",題目:"下列何種藥物是 α-adrenoceptor 之不可逆拮抗劑？ \n(A)Phentolamine \n(B)Phenoxybenzamine \n(C)Prazosin \n(D)Tolazoline "},
+{答案:"A",題目:"下列類交感神經藥物，何者可口服用來治療小孩尿床？ \n(A)Ephedrine \n(B)Dobutamine \n(C)Norepinephrine \n(D)Phenylephrine "},
+{答案:"AB",題目:"用於治療慢性肺阻塞（COPD）病人的藥物中，下列何者的改善效果最好？ \n(A)Theophylline \n(B)Ipratropium \n(C)Zafirlukast \n(D)Nedocromil "},
+{答案:"AC",題目:"婦女產後出血不止時，可使用下列何種藥物改善之？ \n(A)Carboprost \n(B)Alprostadil \n(C)Misoprostol \n(D)Iloprost "},
+{答案:"C",題目:"下列何種藥物透過作用於腸胃道的 5-HT4 receptor 而達到改善腸躁症（irritable bowel syndrome）所引 起的便秘？ \n(A)Buspirone \n(B)Ketanserin \n(C)Tegaserod \n(D)Ondansetron "},
+
+
+
+
+{答案:"C",題目:"下列那一種大麻成分具有最強的精神活化（psychoactive）作用？ \n(A)cannabidiol\n(C)△9-tetrahydrocannabinol \n(B)cannabinol\n(D)tetrahydrocannabivarin "},
+{答案:"A",題目:"下列何者 D2/5-HT2A affinity ratio 最高？ \n(A)Thiothixene \n(B)Clozapine \n(C)Olanzapine \n(D)Quetiapine "},
+{答案:"D",題目:"下列有關 Caffeine 藥理作用之描述，何者錯誤？\n(A)具有促進胃酸分泌的作用\n(B)具有輕微的利尿作用\n(C)具有增加心跳速率及心輸出量的作用\n(D)具有增加支氣管平滑肌收縮的作用"},
+{答案:"C",題目:"下列何者不是 caffeine 過量中毒時的特徵？\n(A)顫抖（tremor）        \n(B)心律不整（arrhythmias）\n(C)嗜睡（sleepiness）        \n(D)精神焦慮（nervousness）"},
+{答案:"C",題目:"下列何種藥物是 theophylline 中毒時的最佳解毒劑？ \n(A)Hydroxocobalamin\n(C)Esmolol \n(B)Acetylcysteine\n(D)Pralidoxime"},
+
+
+
+
+{答案:"A",題目:"下列敘述，何者錯誤？\n(A)分布體積（Vd），為藥物實際分布體積\n(B)肝、腎功能對於藥物清除率（CL）有很重要之影響\n(C)當給藥之後，血漿藥物濃度降至原來一半所需的時間，稱為半衰期（t1/2）\n(D)靜脈（IV）給藥之生體可用率（bioavailability）為 100%"},
+{答案:"A",題目:"β-lactamase  inhibitor 在臨床上常與下列 penicillin 類藥物搭配合用，來擴充其抗菌範圍和活性，何項 除外？\n(A)nafcillin        \n(B)ampicillin        \n(C)amoxicillin        \n(D)ticarcillin "},
+{答案:"D",題目:"下列關於肺結核治療劑 isoniazid 藥理機制及作用之敘述，何者錯誤？\n(A)可抑制分枝桿菌細胞壁成分 mycolic acid 生成\n(B)為殺菌型抗生素\n(C)若病人肝臟 N-acetyltransferase 活性過高，會使其藥效降低\n(D)會誘導肝臟 cytochrome P450 活性明顯增加"},
+{答案:"C",題目:"下列藥物之作用機制為抑制細菌細胞壁之生合成，何者除外？\n(A)cycloserine        \n(B)cephalexin        \n(C)clindamycin        \n(D)bacitracin "},
+{答案:"C",題目:"下列有關磺胺劑之敘述，何者錯誤？\n(A)可抑制細菌 folic acid 之生合成\n(B)可與 trimethoprim 合用產生加乘（synergistic）抑菌作用\n(C)單獨使用可抑制人體 folic acid 之生合成，因此有貧血（anemia）之不良作用\n(D)不良作用有過敏反應，Stevens-Johnson syndrome"},
+{答案:"C",題目:"下列藥物之主要作用為降低血漿 triglyceride，何者除外？\n(A)niacin        \n(B)fenofibrate        \n(C)cholestyramine        \n(D)gemfibrozil "},
+{答案:"D",題目:"下列有關 heparin 之敘述，何者錯誤？\n(A)其組成為 sulfated mucopolysaccharide\n(B)具有高負電荷之分子\n(C)需要 antithrombin III 存在下才能發揮最佳活性\n(D)它僅能中和 thrombin 之凝血活性，對於 Xa, XIIa 拮抗作用小"},
+{答案:"B",題目:"下列何項藥物具有免疫調節、抗發炎和抗血管新生作用，它可抑制 TNF-α 作用，降低 neutrophil  之 吞噬作用？\n(A)azathioprine        \n(B)thalidomide\n(C)mycophenolate mofetil        \n(D)cyclosporine "},
+{答案:"C",題目:"下列有關 warfarin 之敘述，何者錯誤？\n(A)直接抑制 vitamin K 有關之凝血因子 II, VII, IX, X 進行 γ-carboxylation 修飾\n(B)直接抑制 epoxide reductase，使還原型 vitamin K 不能再生\n(C)protein C 合成不受影響\n(D)其抗凝血作用比 heparin 之起始作用時間（onset）慢"},
+{答案:"AB",題目:"下列何種藥物可以用來治療子宮內膜異位症（endometriosis）的不正常疼痛現象？\n(A)leuprolide        \n(B)ganirelix        \n(C)desmopressin        \n(D)conivaptan "},
+
+
+
+
+{答案:"B",題目:"下列有關催產素（oxytocin）的描述，何者錯誤？\n(A)催產素主要由腦下垂體後葉（posterior pituitary）所分泌，具有促進乳汁泌出（ejection）的作用\n(B)在藥理學作用濃度下，催產素具有抑制子宮收縮的作用\n(C)注射高劑量的催產素會造成血壓的下降（hypotension）\n(D)催產素於腸胃道中容易被破壞，因此口服無效 "},
+{答案:"C",題目:"下列有關 clomiphene 的藥理學作用描述，何者錯誤？\n(A)為一種雌激素受體部分作用劑（partial estrogen agonist），可以刺激促性腺激素（gonadotropins） 的分泌作用\n(B)對於排卵功能障礙的婦女具有刺激排卵的作用\n(C)使用時會降低血漿中黃體化激素（LH）和濾泡促進素（FSH）的濃度\n(D)容易誘發熱潮紅（hot flushes）的產生"},
+{答案:"C",題目:"下列關於 organic nitrates 之敘述，何者正確？\n(A)nitroglycerin 口服後之生體可用率（oral bioavailability）高達 70%\n(B)nitroglycerin 舌下含服的藥效可長達三小時\n(C)nitroglycerin 由靜脈注射給予持續數小時可能產生耐藥性（tolerance）\n(D)amyl nitrite 吸入方式給藥後之首度效應（hepatic first-pass effect）高"},
+{答案:"D",題目:"下列何者為中樞神經性降低交感神經活性藥物，主要用於治療懷孕期間之高血壓？\n(A)carbidopa        \n(B)dobutamine        \n(C)fenoldopam        \n(D)methyldopa"},
+{答案:"C",題目:"Captopril 因為抑制converting  enzyme 使下列何種物質的代謝受阻，而產生咳嗽或血管性水腫（angioedema） 的副作用？\n(A)angiotensin II        \n(B)adenosine        \n(C)bradykinin        \n(D)prostacyclin "},
+{答案:"B",題目:"下列何種藥物，最適合用於診斷重症肌無力（myasthenia gravis）？\n(A)echothiophate        \n(B)edrophonium        \n(C)entacapone        \n(D)estazolam"},
+{答案:"C",題目:"下列何種藥物，於戰爭時被用於預防有機磷化學武器藥物不可逆結合至 cholinesterase？\n(A)atropine        \n(B)pralidoxime        \n(C)pyridostigmine        \n(D)trospium"},
+{答案:"A",題目:"下列何者是 varenicline 的臨床用途？\n(A)戒菸        \n(B)青光眼        \n(C)重症肌無力        \n(D)老年失智症"},
+{答案:"B",題目:"下列何種 β-adrenoceptor 拮抗劑之排除半衰期（elimination half-life）最短？\n(A)bisoprolol        \n(B)esmolol        \n(C)nadolol        \n(D)propranolol "},
+{答案:"D",題目:"下列何種 prostaglandins 衍生物，可用於治療廣角性青光眼？\n(A)misoprostol        \n(B)epoprostenol        \n(C)alprostadil        \n(D)latanoprost "},
+
+
+
+
+{答案:"C",題目:"新生兒若需做心臟手術時，在等待期間可使用下列何種藥物先行維持動脈導管通暢？\n(A)misoprostol        \n(B)epoprostenol        \n(C)alprostadil        \n(D)latanoprost"},
+{答案:"A",題目:"下列抗憂鬱藥中，何種屬於 monoamine oxidase inhibitors？\n(A)selegiline        \n(B)paroxetine        \n(C)imipramine        \n(D)bupropion "},
+{答案:"B",題目:"下列那一種全身麻醉劑（general anesthetics）最容易造成心輸出量及血壓下降？\n(A)ketamine        \n(B)halothane        \n(C)nitrous oxide        \n(D)isoflurane "},
+{答案:"B",題目:"關於 caffeine 的敘述，下列何者錯誤？\n(A)會使支氣管平滑肌放鬆        \n(B)會抑制胃酸的分泌\n(C)其高劑量會增加心跳速率及增加心輸出量        \n(D)具有利尿的作用 "},
+{答案:"D",題目:"下列何者不是 gene transfer 所使用的 vectors？\n(A)adenovirus        \n(B)retrovirus        \n(C)liposome-DNA        \n(D)naked RNA"},
+
+
+{答案:"A",題目:"服用下列何種血管舒張劑易產生紅斑性狼瘡的副作用？\n(A)Hydralazine \n(B)Minoxidil \n(C)Captopril \n(D)Sildenafil"},
+{答案:"B",題目:"嚴重鉛中毒引起的腦部病變，應立即給予下列何種藥物治療最佳？\n(A)Deferoxamine \n(B)Edetate calcium disodium（EDTA）\n(C)Penicillamine \n(D)Succimer"},
+{答案:"C",題目:"患有前列腺肥大排尿不易的高血壓病人，宜使用下列何種降血壓藥物來治療？\n(A)Clonidine \n(B)Yohimbine \n(C)Terazosin \n(D)Ritodrine"},
+{答案:"C",題目:"治療鐮刀型貧血（sickle cell anemia）可使用下列何種藥物？\n(A)Folate \n(B)Deferoxamine \n(C)Hydroxyurea \n(D)Pyridoxine"},
+{答案:"D",題目:"下列有關降血脂藥物對血中HDL 或LDL 含量影響之描述何者錯誤？\n(A)Fibric acid 可減低血中LDL-C 含量 \n(B)Statins 可減低血中LDL-C 含量\n(C)Nicotinic acid 可增加血中HDL 含量 \n(D)Ezetimibe 可增加血中HDL 含量"},
+{答案:"A",題目:"下列何種新型藥物可轉化為melagatran，並直接抑制thrombin 之作用，可使用於deep venous thrombosis，且較warfarin 安全，惟其有影響肝功能之副作用？\n(A)Ximelagatran \n(B)Lepirudin \n(C)Tenecteplase \n(D)Abciximab"},
+{答案:"D",題目:"下列何者為抑制HIV 及預防cytomegalovirus 感染的首選藥物？\n(A)Indinavir \n(B)Rifabutin \n(C)Fluconazole \n(D)Ganciclovir"},
+{答案:"A",題目:"下列何種藥物可以有效地治療犬絛蟲（Echinococcus granulosus）所造成的肝囊腫？\n(A)Albendazole \n(B)Ivermectin \n(C)Oxamniquine \n(D)Niclosamide"},
+{答案:"B",題目:"下列何種治療乳癌藥物中，對女性乳癌具有專一性的作用？\n(A)Doxorubicin \n(B)Trastuzumab \n(C)Anastrozole \n(D)Fluoxymesterone"},
+{答案:"D",題目:"下列何者與 penicillin G 合併使用，是最有效治療腸球菌感染的藥物？\n(A)Tobramycin \n(B)Gentamicin \n(C)Netilmicin \n(D)Streptomycin"},
+{答案:"A",題目:"下列何者為最有效治療多重抗藥菌株M. tuberculosis 對streptomycin 有抗藥性的首選藥物？\n(A)Amikacin \n(B)Spectinomycin \n(C)Gentamicin \n(D)Clarithromycin"},
+{答案:"D",題目:"下列全身麻醉劑中，何者的化學結構類似phencyclidine（PCP），容易引起惡夢及類神經異常現象？\n(A)Propofol \n(B)Fentanyl \n(C)Etomidate \n(D)Ketamine"},
+{答案:"A",題目:"下列那一種全身性麻醉劑會抑制呼吸中樞及降低對二氧化碳的敏感性？\n(A)Thiopental \n(B)Halothane \n(C)Ketamine \n(D)Nitrous oxide"},
+{答案:"D",題目:"下列有關鎮靜-催眠（sedative-hypnotic）用藥在逐漸提高使用劑量時，其所產生中樞神經系統作用之序列，何者正確？\n(A)鎮靜（sedation）→麻醉（anesthesia）→催眠（hypnosis）→昏迷（coma）\n(B)催眠（hypnosis）→鎮靜（sedation）→麻醉（anesthesia）→昏迷（coma）\n(C)催眠（hypnosis）→麻醉（anesthesia）→鎮靜（sedation）→昏迷（coma）\n(D)鎮靜（sedation）→催眠（hypnosis）→麻醉（anesthesia）→昏迷（coma）"},
+{答案:"A",題目:"下列有關抗癲癇用藥carbamazepine 與oxcarbazepine 的作用比較，何者錯誤？\n(A)Oxcarbazepine 所產生的作用強度（potency）較carbamazepine 大\n(B)Oxcarbazepine 所產生的肝毒性較carbamazepine 低\n(C)Oxcarbazepine 與carbamazepine 適用於同型式的癲癇治療\n(D)Oxcarbazepine 所產生的藥物過敏性反應較carbamazepine 低"},
+{答案:"D",題目:"根據治療指數（therapeutic index）的評估方式，下列那一種鎮靜-催眠（sedative-hypnotic）類藥物的使用安全性最高？\n(A)Morphine \n(B)Chloropromazine \n(C)Phenobarbital \n(D)Diazepam"},
+{答案:"C",題目:"下列何種因素會降低吸入性全身性麻醉劑的誘導速率？\n(A)增加吸入性氣體中藥物濃度比例 \n(B)增加肺泡換氣速率\n(C)麻醉藥物血中溶解度較高 \n(D)降低心輸出量"},
+{答案:"A",題目:"下列敘述何者正確？\n(A)Ipratropium 減少呼吸道腺體分泌及氣管平滑肌收縮，可改善肺氣腫（emphysema）症狀\n(B)氣喘發作時，應該選擇β2-adrenergic receptor活化劑，如timolol，以便即時擴張氣管\n(C)Scopolamine 因能活化 muscarinic ACh 受體，故可減輕暈車、暈船等中樞神經系統引起之嘔吐\n(D)身心遇緊急狀況時，因會興奮迷走神經，故導致心跳加速，瞳孔縮小"},
+{答案:"D",題目:"下列何種藥物是經由抑制muscarinic receptor 而達到治療irritable bowel syndrome 的作用？\n(A)Bethanechol \n(B)Pirenzepine \n(C)Tropicamide \n(D)Clidinium"},
+{答案:"B",題目:"下列何種治療congestive heart failure 的藥物，其作用機轉是經由增加NO 而使血管舒張來達成的？\n(A)Dopamine \n(B)Nitroglycerin \n(C)Nesiritide \n(D)Milrinone"},
+{答案:"D",題目:"下列何者不是雌激素（estrogen）之作用器官？\n(A)Brain \n(B)Testis \n(C)Bone \n(D)Pancreas"},
+{答案:"C",題目:"Indomethacin 具有子宮鬆弛的作用，主要是經由何種機轉而來？\n(A)刺激adenylyl cyclase \n(B)刺激β-adrenergic receptor\n(C)抑制cyclooxygenase \n(D)抑制phospholipase A2"},
+{答案:"AB",題目:"下列四環黴素中，何者較易有“光敏感”（photosensitization）的副作用？\n(A)demeclocycline \n(B)doxycycline \n(C)oxytetracycline \n(D)minocycline"},
+{答案:"D",題目:"下列何種藥物可以增強GABA 在線蟲體及節肢動物之神經-肌肉結合處的作用？\n(A)Glutamic acid \n(B)Picrotoxin \n(C)Pyrimethamine \n(D)Ivermectin"},
+{答案:"C",題目:"下列何種藥物為一種選擇性高之antithrombin-dependent factor Xa 抑制劑？\n(A)Heparin \n(B)Clopidogrel \n(C)Fondaparinux \n(D)Aspirin"},
+
+
+
+
+{答案:"C",題目:"下列有關 mifepristone（RU-486）的藥理作用描述，何者錯誤？\n(A)為一種具選擇性糖皮質激素受體拮抗劑（glucocorticoid receptor antagonist）\n(B)具有高度的抗孕激素活性（antiprogestin activity）作用，因此可以被用來當作一種避孕劑\n(C)會惡化庫欣氏症候群（Cushing’s syndrome）的臨床症狀\n(D)口服有效"},
+{答案:"D",題目:"testosterone 在代謝過程中經過何者之作用轉化成estradiol？\n(A) 5α-reductase \n(B) cytochrome P450s\n(C) 3β-hydroxy steroid dehydrogenase \n(D) aromatase"},
+{答案:"A",題目:"對 insulin 具有耐受性的糖尿病患者因同時有水腫的問題需作治療改善，不宜使用下列何種利尿劑？\n(A) chlorothiazide \n(B) acetazolamide \n(C) furosemide \n(D) spironolactone"},
+{答案:"B",題目:"下列何者不是cAMP 媒介之藥理作用？\n(A) vasopressin 促進腎臟對水分之再吸收 \n(B) norepinephrine 促進血管收縮\n(C) epinephrine 促進肝醣分解 \n(D) epinephrine 促進脂肪細胞分解三酸甘油酯"},
+{答案:"C",題目:"下列有關藥物與血漿蛋白結合之敘述，何者錯誤？\n(A)大部分的藥物會與albumin 結合\n(B)鹼性藥物會與alpha1-acid glycoprotein結合\n(C)血漿蛋白結合率高的藥物，藥效作用時間會縮短\n(D)與血漿蛋白結合之藥物會暫時失去藥理活性"},
+{答案:"D",題目:"市面上之威而鋼（sildenafil）治療陽痿的主要作用機轉為何？\n(A)增加NO 的合成 \n(B)增加NO 的釋出\n(C)活化guanylate cyclase \n(D)抑制phosphodiesterase V"},
+{答案:"B",題目:"下列有關於藥物與受體交互作用之敘述，何者錯誤？\n(A) full agonist 對與活化狀態受體（active form）結合後的反應最高\n(B) partial agonist 對與不活化狀態受體（inactive form）的結合後仍有部分反應\n(C) inverse agonist 對與不活化狀態受體（inactive form）的結合後產生抑制性反應\n(D) antagonist 對於活化狀態受體（active form）和不活化狀態受體（inactive form）結合後皆無任何反應"},
+{答案:"BCD",題目:"下列何種藥物可以清除感染非洲睡眠症病人血液及淋巴結中之錐蟲？\n(A) nifurtimox \n(B) melarsoprol \n(C) pentamidine \n(D) suramin"},
+{答案:"C",題目:"Infliximab 單株抗體可用於Crohn’s disease 之緩解，其主要作用之標的為何？\n(A) interferon \n(B) IL-2 \n(C) TNF-α \n(D) LTB4"},
+{答案:"A",題目:"關於 methadone 的敘述，下列何者錯誤？\n(A)止痛的效果較morphine 差 \n(B)作用的半衰期較morphine 長\n(C)口服有效 \n(D)所產生的戒斷作用較morphine 輕微"},
+{答案:"C",題目:"有關 succimer 之敘述中，下列何者正確？\n(A)又名DMPS（dimercaptopropanesulfornic acid）\n(B)要以肌肉注射給藥\n(C)可用於治療小孩之血中高鉛濃度\n(D)會有高血壓之副作用"},
+{答案:"C",題目:"下列有關 statin 敘述，何者錯誤？\n(A)主要作用於HMG-CoA reductase，抑制膽固醇生合成\n(B)引發高親和力LDL receptor 表現增加\n(C) atorvastatin 屬於prodrug，必須經腸道代謝成活性代謝物\n(D)可與cholestyramine 合用，達到降膽固醇之相加作用"},
+{答案:"B",題目:"有關 enalapril 對心衰竭病人治療作用之敘述，何者錯誤？\n(A)為慢性心衰竭治療之第一線治療藥物\n(B)使用digoxin 治療之慢性心衰竭病人可以enalapril 取代\n(C)可與利尿劑併用\n(D)腎動脈狹窄病人應避免使用"},
+{答案:"C",題目:"下列有關 heparin 和warfarin 之敘述，何者錯誤？\n(A)採用aPTT（activated partial thromboplastin time）來檢測heparin 之抗凝血活性\n(B)以prothrombin time 來檢測warfarin 之抗凝血活性\n(C) heparin 過量之拮抗劑為Factor VIIa\n(D)warfarin過量之拮抗劑為冷凍血漿和Vit. K1"},
+{答案:"B",題目:"下列何種藥物用於治療嗜鉻細胞瘤（pheochromocytoma），但會產生錐體外路徑症狀之副作用？\n(A) labetalol \n(B) metyrosine \n(C) phenoxybenzamine \n(D) tamsulosin"},
+{答案:"A",題目:"有關 nicotinic cholinoceptor 之敘述，下列何者錯誤？\n(A)是一種G 蛋白耦合之受體 \n(B)可被乙醯膽鹼活化\n(C)位於交感神經節節後神經細胞體上 \n(D)活化後可使骨骼肌收縮"},
+{答案:"B",題目:"男性禿頭專用毛髮增生劑finasteride 主要透過下列何種機轉來促進毛髮增生？\n(A)為黃體素（progesterone）的衍生物，透過抑制雄激素（antiandrogenic）及抑制促性腺激素（antigonadotropic）的作用來產生促進毛髮增生\n(B)具有降低循環及前列腺內的二氫睪固酮（dihydrotestosterone）的產生，進而促進毛髮增生\n(C)具有抑制芳香環轉化（aromatase）的活性，進而促進毛髮增生\n(D)為一種合成的黃體素，透過活化黃體素受體來促進毛髮增生"},
+{答案:"C",題目:"下列那一類藥物最適合用於治療患有Zollinger-Ellison syndrome 的病人？\n(A)antacids \n(B)H2 antagonists\n(C) proton pump inhibitors \n(D) anticholinergic agents"},
+{答案:"D",題目:"下列何種治療氣喘的藥物之治療指數（therapeutic index）窄，使用時需特別小心？\n(A) nedocromil \n(B) ipratropium \n(C) terbutaline \n(D) theophylline"},
+{答案:"C",題目:"下列何種 NSAIDs 藥物，最容易引起血栓的副作用？\n(A) diclofenac \n(B) ibuprofen \n(C) rofecoxib \n(D) sulindac"},
+{答案:"D",題目:"下列何者不是臨床上作基因治療的必要條件？\n(A)目前無合適治療法的疾病\n(B)疾病的突變基因之確定\n(C)疾病的突變基因與疾病具關聯性\n(D) In vitro 的偵測系統即足夠評估其療效（efficacy）"},
+{答案:"C",題目:"下列有關中樞神經興奮劑methylphenidate 的敘述，何者錯誤？\n(A)可以有效改善注意力不足/過動症候群（attention-deficit/hyperactivity syndrome）\n(B)具有阻斷norepinephrine 及dopamine 被再吸收到突觸前神經元的作用\n(C)具有促進食慾的作用\n(D)不適合使用於心血管疾病病史的病人"},
+{答案:"C",題目:"下列有關抗癲癇藥物lamotrigine 的敘述，何者錯誤？\n(A)其主要作用於電位敏感的鈉離子通道，以安定神經膜及抑制興奮性神經傳導物的釋放作用\n(B)其對於局部癲癇、泛發性強直性陣攣性癲癇具有治療的效果\n(C)其對sodium valproate 合併使用時，其體內半衰期會縮短，因此使用劑量需要加倍\n(D)其可以用於雙極性疾患（bipolar disorder）之鬱症預防"},
+{答案:"AC",題目:"下列有關抗癲癇藥物carbamazepine 的描述，何者錯誤？\n(A)其口服效果不佳，需以靜脈注射的方式給藥\n(B) carbamazepine 具有延長鈉離子管道不反應期的作用\n(C) oxcarbazepine 的作用強度較carbamazepine 大\n(D) carbamazepine 會促進肝臟微粒體酵素的活性，因此會增加其他藥物的代謝作用"},
+{答案:"C",題目:"下列降血壓藥物與其主要機轉配對何者正確？\n(A) fenoldopam—可以釋放出一氧化氮（nitric oxide）\n(B) hydralazine—抑制鈣離子內流入血管平滑肌細胞\n(C) minoxidil—其代謝物可開啟血管平滑肌鉀離子通道\n(D)sodium nitroprusside—可以活化dopamine D1受體"},
+
+
+
+
+{答案:"C",題目:"下列配對，何者屬於physiologic antagonism？\n(A) Protamine-heparin \n(B) Acetylcholine-atropine\n(C) Glucagon-insulin \n(D)制酸劑-胃酸"},
+{答案:"B",題目:"下列何者作用之受體（receptor）是位於細胞內？\n(A) Insulin \n(B) Estrogen \n(C) Norepinephrine \n(D) Serotonin"},
+{答案:"C",題目:"下列有關 Aminoglycoside 之敘述，何者錯誤？\n(A)口服吸收差\n(B)具有post-antibiotic effect（PAE），可一天給一次較高劑量的治療方式\n(C)對於Gram negative 之厭氧菌（anaerobes）比較有效\n(D)具有聽覺損傷和腎功能損傷之不良作用"},
+{答案:"D",題目:"下列有關 Fluoroquinolone 敘述，何者錯誤？\n(A)口服吸收優於Nalidixic acid\n(B)廣效型抗菌劑，可用於呼吸道和腸道之細菌感染\n(C)作用標的為細菌Type II topoisomerase（DNA gyrase）\n(D)安全性高，可用於小兒之感染"},
+{答案:"C",題目:"下列何種 β-lactam 藥物可殺死Gram negative 菌，且與其他β-lactam 產生最少交互過敏（Crossallergy）反應？\n(A) Meropenem \n(B) Cephalosporin \n(C) Aztreonam \n(D) Ampicillin"},
+{答案:"A",題目:"下列藥物中，何者可和黴菌細胞膜之麥角固醇（ergosterol）結合，造成細胞膜穿孔而達殺菌作用，且可和flucytosine 產生協同作用，治療隱球菌引起之腦膜炎（cryptococcal meningitis）？\n(A) Amphotericin B \n(B) Itraconazole \n(C) Rifampin \n(D) Terbinafine"},
+{答案:"B",題目:"下列何種藥物屬於IL-1 受體拮抗劑，可適用於類風濕性關節炎（rheumatoid arthritis）治療？\n(A) Adalimumab \n(B) Anakinra \n(C) Alefacept \n(D) Natalizumab"},
+{答案:"A",題目:"下列有關 Fibrate 作用，何者錯誤？\n(A)不影響血漿中HDL\n(B)增加肌肉Endothelial lipoprotein lipase 活性，降低Triglyceride\n(C)主要作用為透過PPARα 活化，降低血漿Triglyceride\n(D)與Statin 合用易產生肌病變（Myopathy）"},
+{答案:"B",題目:"下列何種藥物最常用來作為庫欣氏症候群（Cushing’s syndrome）的診斷用途？\n(A) Fludrocortisone \n(B) Dexamethasone\n(C) Desoxycorticosterone \n(D) Aldosterone"},
+{答案:"B",題目:"使用雌激素（estrogen）作為停經婦女的補充治療，有時會同時給予黃體激素（progestin），其主要具有下列何優點？\n(A)可以減少雌激素的使用劑量\n(B)減少雌激素刺激子宮內膜增生的作用\n(C)促進雌激素減少骨質疏鬆症（osteoporosis）的療效\n(D)減少雌激素產生噁心及嘔吐的副作用"},
+{答案:"送分",題目:"下列有關 Octreotide 藥理學作用的描述，何者錯誤？\n(A) Octreotide 為一種生長抑制劑（somatostatin）的作用類似物（analog）\n(B) Octreotide 使用時非常容易造成病人發生血糖過高（hyperglycemia）的情形\n(C) Octreotide 可以用來減緩食道靜脈曲張（esophageal varices）所引起的急性出血現象\n(D)長期使用Octreotide會發生Vitamin B12缺乏的副作用"},
+{答案:"A",題目:"若病人有急性心衰竭且其收縮壓低於90 mmHg 時，則下列何者為最佳治療藥物？\n(A) Dopamine \n(B) Milrinone \n(C) Isoproterenol \n(D) Nesiritide"},
+{答案:"D",題目:"下列利尿劑中，何者對腎臟收集小管（collecting tubule）上皮細胞之鈉通道有直接抑制作用？\n(A) Eplerenone \n(B) Conivaptan \n(C) Acetazolamide \n(D) Amiloride"},
+{答案:"C",題目:"若高血壓病人併有慢性腎臟疾病，下列降血壓藥物，何者可以兼具降血壓及改善蛋白尿（proteinuria）的作用？\n(A) Amlodipine \n(B) Carvedilol \n(C) Lisinopril \n(D) Methyldopa"},
+{答案:"B",題目:"Cocaine 促進交感神經活性之最主要作用機轉為何？\n(A)抑制鈉離子通道 \n(B)抑制norepinephrine reuptake\n(C)抑制monoamine oxidase \n(D)促進norepinephrine 合成"},
+{答案:"D",題目:"活化β2-adrenoceptor會促進下列何種肌肉收縮？\n(A)膀胱壁肌肉 \n(B)骨骼肌血管 \n(C)支氣管平滑肌 \n(D)心肌"},
+{答案:"A",題目:"下列何種β2-agonists的脂溶性高，藥效長，適合用於夜間型氣喘的控制？\n(A) Salmeterol \n(B) Terbutaline \n(C) Albuterol \n(D) Bitolterol"},
+{答案:"B",題目:"通常小孩因病毒感染引起的發燒，會優先使用下列何種藥物來退燒？\n(A) Aspirin \n(B) Acetaminophen \n(C) Diclofenac \n(D) Ketorolac"},
+{答案:"A",題目:"若一病人平日有服用ketoconazole，最不宜使用下列何種H1-antihistamine藥物來治療過敏？\n(A) Astemizole \n(B) Brompheniramine \n(C) Cyclizine \n(D) Diphenhydramine"},
+{答案:"B",題目:"下列那一種抗癲癇藥物為γ-aminobutyric acid（GABA）的結構相似物，其主要透過抑制GABA 轉氨酶（transaminase）及GABA 再回收（uptake）作用來產生抗癲癇作用？\n(A) lamotrigine \n(B) vigabatrin \n(C) ethosuximide \n(D) topiramate"},
+{答案:"C",題目:"下列有關中樞神經興奮劑methylene-dioxymethamphetamine（MDMA）的敘述，何者錯誤？\n(A)其為amphetamine 的衍生物，作用方式與amphetamine 相似\n(B)其具有阻斷血清素（serotonin）再回收系統作用，因此會增加腦中血清素局部濃度\n(C)體溫過低為其中毒時的主要特色\n(D)其使用者會產生心理依賴性及造成強迫性使用行為"},
+{答案:"B",題目:"使用 benzodiazepines 類藥物時，隨著其使用劑量逐漸提高時，其所產生之中樞神經系統作用之前後序列，何者正確？\n(A)催眠（hypnosis）→鎮靜（sedation）→麻醉（anesthesia）→昏迷（coma）\n(B)鎮靜（sedation）→催眠（hypnosis）→麻醉（anesthesia）→昏迷（coma）\n(C)催眠（hypnosis）→麻醉（anesthesia）→鎮靜（sedation）→昏迷（coma）\n(D)鎮靜（sedation）→麻醉（anesthesia）→催眠（hypnosis）→昏迷（coma）"},
+{答案:"B",題目:"下列有關離子通道阻斷劑之敘述，何者錯誤？\n(A) Tetrodotoxin（TTX）從外面阻斷sodium channel\n(B) Apamin 阻斷Big Ca-activated potassium channel\n(C)Picrotoxin阻斷GABAA receptor\n(D) Philanthotoxin 阻斷AMPA receptor"},
+{答案:"B",題目:"使用下列那一種general anesthetics 時，最容易造成血壓下降和心律不整？\n(A) Isoflurane \n(B) Halothane \n(C) Desflurane \n(D) Nitrous oxide"},
+{答案:"AD",題目:"下列何種藥物是有機磷中毒時的最佳解毒劑？\n(A) Atropine \n(B) Acetylcysteine \n(C) Physostigmine \n(D) Pralidoxime"},
+
+
+
+
+{答案:"C",題目:"下列敘述何者錯誤？\n(A)agonist 與allosteric inhibitor 同時存在之下，其效用會比單獨agonist 存在之效用低\n(B)當antagonist 與agonist 作用於相同位置，稱之為competitive inhibitor\n(C)agonist 與competitive inhibitor 同時存在之下，不論劑量多大，其效用會比單獨agonist 存在之效用低\n(D)agonist 與allosteric activator 同時存在之下，其效用會比單獨agonist 存在之效用高"},
+{答案:"A",題目:"鹼化尿液較會促進下列何者再次吸收？\n(A)amphetamine \n(B)cromolyn \n(C)ethacrynic acid \n(D)methyldopa"},
+{答案:"D",題目:"下列何種藥物對鈉離子通道之結合與分離速率最快？\n(A)quinidine \n(B)amiodarone \n(C)flecainide \n(D)lidocaine"},
+{答案:"C",題目:"肺結核治療劑 isoniazid 常和pyridoxine 合併使用，以預防因長期服用isoniazid 所產生的何種副作用？\n(A)口乾（dryness of the mouth） \n(B)肝炎（hepatitis）\n(C)周邊神經病變（peripheral neuropathy） \n(D)腎絲球腎炎（glomerulonephritis）"},
+{答案:"A",題目:"下列何種藥物應在病人感染瘧疾數天之後給予，以便清除病人肝臟中裂殖蟲（schizonts）及靜止蟲體（hypnozoites）？\n(A)primaquine \n(B)artemisinin \n(C)proguanil \n(D)sulfadoxine"},
+{答案:"D",題目:"下列何種抗癌藥物服用後會造成急性出血性膀胱炎的副作用？\n(A)doxorubicin \n(B)fluorouracil \n(C)vincristine \n(D)cyclophosphamide"},
+{答案:"D",題目:"下列有關 GM-CSF（sargramostim）和G-CSF（filgrastim）生長因子之敘述，何者錯誤？\n(A)GM-CSF 和G-CSF 皆可增加neutrophil 數目 \n(B)兩者均可增加末梢血液中stem cells 數目\n(C)GM-CSF 可增加 eosinophil 數目 \n(D)GM-CSF 產生之不良作用小於G-CSF"},
+{答案:"C",題目:"下列有關免疫抑制劑與其不良作用（adverse reaction）之配對，何者錯誤？\n(A)anti-CD 3 單株抗體：類感冒症狀 \n(B)corticosteroids：電解質不平衡\n(C)cyclosporine：重度骨髓抑制 \n(D)azathioprine：骨髓抑制"},
+{答案:"C",題目:"下列何種藥物可結合至 FK-binding protein，抑制calcineurin，進而抑制T cell 活化？\n(A)cyclosporine \n(B)sirolimus \n(C)tacrolimus \n(D)cyclophosphamide"},
+{答案:"A",題目:"糖皮質素（glucocorticoids）在炎症細胞（inflammatory cells）中，透過下列何種主要的作用機轉來產生抗發炎作用？\n(A)抑制phospholipase A2 的活性 \n(B)抑制phospholipase C 的活性\n(C)促進phospholipase A2 的活性 \n(D)促進phospholipase C 的活性"},
+{答案:"送分",題目:"下列何者非 vitamin D 及其衍生物的臨床適應症？\n(A)骨質疏鬆（osteoporosis） \n(B)骨軟化症（osteomalacia）\n(C)腎功能衰竭（renal failure） \n(D)副甲狀腺功能亢進症（hyperparathyroidism）"},
+{答案:"D",題目:"下列何者不是生長激素（growth hormone）在臨床上可使用的適應症？\n(A)普拉德－威利症（Prader-Willi syndrome） \n(B)透納氏症（Turner syndrome）\n(C)短腸症（short bowel syndrome） \n(D)腕隧道症候群（carpal tunnel syndrome）"},
+{答案:"C",題目:"下列胰島素製劑中，依照其起始作用（onset）由快到慢的排列，何者正確？\n(A)lispro insulin＞glargine insulin＞regular insulin \n(B)regular insulin＞lispro insulin＞glargine insulin\n(C)lispro insulin＞regular insulin＞glargine insulin \n(D)regular insulin＞glargine insulin＞lispro insulin"},
+{答案:"C",題目:"下列有關降血糖藥物作用機轉的描述，何者錯誤？\n(A)glipizide 具有促進胰島素分泌的作用\n(B)metformin 具有抑制肝臟製造過多葡萄糖的作用\n(C)rosiglitazone 具有減少胰島素抗性（insulin resistance）的作用，主要針對第一型糖尿病使用\n(D)acarbose 具有抑制腸道內負責分解雙醣、寡醣及多醣的酵素，進而延遲及減少醣類的分解吸收"},
+{答案:"B",題目:"有關 exenatide 降血糖的作用之敘述，下列何者錯誤？\n(A)降低餐後血糖\n(B)活化peroxisome proliferator-activated receptor-γ（PPAR-γ）受體\n(C)降低食慾\n(D)增加葡萄糖所誘導的胰島素釋放作用"},
+{答案:"D",題目:"要治療患有支氣管氣喘之病人的青光眼症，下列何種藥物較不適合？\n(A)dorzolamide \n(B)latanoprost \n(C)brinzolamide \n(D)timolol"},
+{答案:"B",題目:"下列何種藥物，最適合用於治療與Sjögren’s syndrome 有關之口乾症？\n(A)bethanechol \n(B)cevimeline \n(C)donepezil \n(D)neostigmine"},
+{答案:"C",題目:"下列何類藥物噴劑是急診室治療急性氣喘的第一線用藥？\n(A)chromones \n(B)glucocorticoids\n(C)β2-agonists \n(D)leukotriene modulators"},
+{答案:"B",題目:"承上題，若該藥物(β2-agonist)噴劑對病患之急性氣喘發作並無緩解時，應立即靜脈注射下列何種藥物？\n(A)zileuton \n(B)glucocorticoids \n(C)terbutaline \n(D)tiotropium"},
+{答案:"D",題目:"下列何種藥物對於化學治療劑引起的噁心、嘔吐，有很好的預防作用？\n(A)buspirone \n(B)ketanserin \n(C)tegaserod \n(D)ondansetron"},
+{答案:"C",題目:"下列何種藥物可用於治療失眠，而它是作用於melatonin 的receptor？\n(A)diphenhydramine \n(B)promethazine \n(C)ramelteon \n(D)cyproheptadine"},
+{答案:"C",題目:"下列何種藥物之半衰期最長？\n(A)alprazolam \n(B)chlordiazepoxide \n(C)flurazepam \n(D)zaleplon"},
+{答案:"D",題目:"下列有關治療巴金森氏症的藥物levodopa 的描述，何者正確？\n(A)levodopa 口服效果差，需以靜脈注射的方式投藥\n(B)levodopa 通常不可以與selegiline（deprenyl）併用\n(C)levodopa 經常與bromocriptine 併用，以延長其作用的時間\n(D)levodopa 會導致食慾下降"},
+{答案:"B",題目:"關於 pentazocine 的敘述，下列何者錯誤？\n(A)高劑量的pentazocine 會造成血壓的上升 \n(B)可以與morphine 併用，以達最大的止痛效果\n(C)比morphine 較不易產生欣快感 \n(D)口服有效"},
+{答案:"B",題目:"下列何種藥物是甲醇（methanol）中毒時的最佳解毒劑？\n(A)hydroxocobalamin \n(B)fomepizole \n(C)esmolol \n(D)pralidoxime"},
