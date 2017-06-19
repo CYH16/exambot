@@ -70,7 +70,7 @@ bot.dialog('/setting',[(session,args,next)=>{
     }])
 bot.dialog('/number',[
     (session)=>{
-		builder.Prompts.number(session, "那你一次要答幾題呢？",{retryPrompt:'請輸入的數字喔~'});
+		builder.Prompts.number(session, "那你一次要答幾題呢？",{retryPrompt:'請輸入數字喔~'});
 	},(session, results)=>{
 		session.privateConversationData.num = results.response;
         if(session.privateConversationData.num>10){
