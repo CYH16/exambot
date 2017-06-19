@@ -23,7 +23,7 @@ for fname in fnames:
                 qaDict[idxs[0]]=[]
             return qaDict[idxs[0]]
     qaList = getqaList(cats,qas)
-    with open(os.path.join(dataPath,fname)) as f:
+    with open(os.path.join(dataPath,fname), encoding="utf-8") as f:
         for line in f:
             qa = tag.findall(line)
             if len(qa) != 0:

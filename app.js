@@ -27,53 +27,78 @@ bot.beginDialogAction('getstarted', '/');
 bot.dialog('/',[
     (session) =>
     {
-        session.send(`Hi ${session.message.user.name}!`);    
+        session.send(`哈囉~${session.message.user.name}你好\~\~`);
+		session.send("我是一個練習醫師一階國考的聊天機器人，可以讓你練習歷屆的國考題。"); 
         session.beginDialog('/setting');
     }
 ])
 
 
 //Pick Sections
-bot.dialog('/setting',[(session)=>{
+bot.dialog('/setting',[(session,args,next)=>{
         if(!session.privateConversationData.sec || session.privateConversationData.sec==null)
         {
-            builder.Prompts.choice(session,"哈囉，這是一個練習國考的聊天機器人。\n你要練習哪一科咧？\n",Object.keys(testData).join('|'),{listStyle: builder.ListStyle["button"],retryPrompt:'請選擇選項'});
-        }
+            builder.Prompts.choice(session,"那麼你想要練習哪一科咧？\n",Object.keys(testData).join('|').concat("|我有話想說"),{listStyle: builder.ListStyle["button"],retryPrompt:'請選擇我們現在有提供的科目喔><'});
+		}else{next();}
     },(session,results,next)=>{
-         session.privateConversationData.sec = [results.response.entity];
-         if(testData[results.response.entity].constructor===Object){
-            builder.Prompts.choice(session,"要從哪個部分開始呢？",Object.keys(testData[results.response.entity]).join('|'),{listStyle: builder.ListStyle["button"],retryPrompt:"請選擇選項"})  
-         }else{
-            next({response:null});
-         }
+		if(results.response == undefined){next();}
+		else if(results.response.entity==="我有話想說"){session.beginDialog('/feedback')}
+        else{
+			session.privateConversationData.sec = [results.response.entity];
+			if(testData[results.response.entity].constructor===Object){
+				builder.Prompts.choice(session,"那麼要練習哪個部分呢？",Object.keys(testData[results.response.entity]).join('|').concat("|算了重選科目吧"),{listStyle: builder.ListStyle["button"],retryPrompt:"請選擇我們現在有提供的科目喔><'"})  
+			}else{
+				next({response:null});
+			}
+		}
+		
     }
     ,(session,results) => {
         
-        console.log(results);
-        if(results.response==null){
-            session.send("你選擇的是 %s",session.privateConversationData.sec[0])
-        }else{
-            session.privateConversationData.sec.push(results.response.entity);
-            session.send(`你選擇的是 ${session.privateConversationData.sec[0]} ${results.response.entity}`);
-        }
-        builder.Prompts.number(session, "你一次要答幾題呢？",{retryPrompt:'請選擇選項'});
-    },function(session,results){
-        session.privateConversationData.count = 0;       
-        session.privateConversationData.num = results.response;
-        session.beginDialog('/qa')
+        //console.log(results);
+		if(results.response==null){
+			if(session.privateConversationData.sec.length==1){session.send("你要做的是%s",session.privateConversationData.sec[0])}
+			else{session.send(`你要做的是${session.privateConversationData.sec[0]}之中的${session.privateConversationData.sec[1]}`);}
+		}
+		else if(results.response.entity==="算了重選科目吧" && results.response.entity!=null){session.privateConversationData.sec = null ;session.replaceDialog('/setting');}
+        else{
+			session.privateConversationData.sec.push(results.response.entity);
+			session.send(`你選擇了${session.privateConversationData.sec[0]}之中的${session.privateConversationData.sec[1]}`);
+		}
+		session.replaceDialog('/number');
+		        
     }])
-
+bot.dialog('/number',[
+    (session)=>{
+		builder.Prompts.number(session, "那你一次要答幾題呢？",{retryPrompt:'請輸入的數字喔~'});
+	},(session, results)=>{
+		session.privateConversationData.num = results.response;
+        if(session.privateConversationData.num>10){
+			session.send("請先輸入1~10的數字喔，不然我怕有人輸入10000然後寫到天荒地老XD");
+			session.replaceDialog('/number');
+		}
+		else if(session.privateConversationData.num<1){
+			session.send("恩...應該至少要做一題吧XD");
+			session.replaceDialog('/number');
+		}
+		else{
+			session.privateConversationData.count = 0;       
+			session.privateConversationData.num = results.response;
+			session.beginDialog('/qa');
+		}
+    }])
 bot.dialog('/qa',[
     (session,next)=>{
+		session.send("開始囉");
         session.beginDialog('/ask');
     },(session)=>{
-        builder.Prompts.choice(session,"要繼續做題嗎？","換別科好了|繼續",{listStyle: builder.ListStyle["button"],retryPrompt:'請選擇選項'});
+        builder.Prompts.choice(session,"要繼續做題嗎？","換別科好了|再來吧",{listStyle: builder.ListStyle["button"],retryPrompt:'所以你要練習別科嗎？'});
     },(session,results)=>
     {
-        if(results.response.entity!="要繼續做題嗎？")
+        if(results.response.entity==="換別科好了")
         {  
             session.privateConversationData.sec = null;
-        }   
+		}   
         session.replaceDialog('/setting');
     }])
 
@@ -84,13 +109,13 @@ bot.dialog('/ask',[(session)=>{
         session.privateConversationData.count++;
         const q = (qs[session.dialogData.randIdx])['題目'].split('\n');
         session.dialogData.a = (qs[session.dialogData.randIdx])['答案'];
-        builder.Prompts.choice(session,q.join('\n\n').replace(/"/g,""),"A|B|C|D",{listStyle: builder.ListStyle["button"],retryPrompt:'請選擇選項'});
+        builder.Prompts.choice(session,q.join('\n\n').replace(/"/g,""),"A|B|C|D",{listStyle: builder.ListStyle["button"],retryPrompt:'請選擇選項喔'});
         
     },(session,results)=>{
         if(session.dialogData.a.replace(/"/g,'')!=results.response.entity){
-            session.send("正確的解答是 %s",session.dialogData.a.replace(/"/g,''));
+            session.send("答錯囉，正確的答案是%s。",session.dialogData.a.replace(/"/g,''));
         }else{
-            session.send("答對了");
+            session.send("答對了！");
         }
         if(session.privateConversationData.count<session.privateConversationData.num){
             session.replaceDialog('/ask')
@@ -99,5 +124,11 @@ bot.dialog('/ask',[(session)=>{
         }
     }])
 
+bot.dialog('/feedback',[
+    (session,next)=>{
+        builder.Prompts.choice(session,"下面的連結是一個回饋表單，如果有什麼想說的話（像是哪裡怪怪的啦、哪邊可以改得更好啦），歡迎跟我們說！http://ppt.cc/CxyeV","回去選科目吧",{listStyle: builder.ListStyle["button"],retryPrompt:'點選"回去選科目吧"重新做題目吧~'});
+    },(session)=>{
+        session.replaceDialog('/setting');
+    }])
 
 
