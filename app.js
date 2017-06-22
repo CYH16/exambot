@@ -48,7 +48,7 @@ bot.dialog('/setting',[(session,args,next)=>{
         else{
 			session.privateConversationData.sec = [results.response.entity];
 			if(testData[results.response.entity].constructor===Object){
-				builder.Prompts.choice(session,"那麼要練習哪個部分呢？",Object.keys(testData[results.response.entity]).join('|').concat("|算了重選科目吧"),{listStyle: builder.ListStyle["button"],retryPrompt:"請選擇我們現在有提供的科目喔><'"})  
+				builder.Prompts.choice(session,"那麼要練習哪個部分呢？",Object.keys(testData[results.response.entity]).join('|').concat("|算了重選科目吧"),{listStyle: builder.ListStyle["button"]})  
 			}else{
 				next({response:null});
 			}
@@ -94,7 +94,7 @@ bot.dialog('/qa',[
 		session.send("開始囉");
         session.beginDialog('/ask');
     },(session)=>{
-        builder.Prompts.choice(session,"要繼續做題嗎？","換別科好了|再來吧",{listStyle: builder.ListStyle["button"],retryPrompt:'所以你要練習別科嗎？'});
+        builder.Prompts.choice(session,"要繼續做題嗎？","換別科好了|再來吧",{listStyle: builder.ListStyle["button"]});
     },(session,results)=>
     {
         if(results.response.entity==="換別科好了")
@@ -111,7 +111,7 @@ bot.dialog('/ask',[(session)=>{
         session.privateConversationData.count++;
         const q = (qs[session.dialogData.randIdx])['題目'].split('\n');
         session.dialogData.a = (qs[session.dialogData.randIdx])['答案'];
-        builder.Prompts.choice(session,q.join('\n\n').replace(/"/g,""),"A|B|C|D",{listStyle: builder.ListStyle["button"],retryPrompt:'請選擇選項喔'});
+        builder.Prompts.choice(session,q.join('\n\n').replace(/"/g,""),"A|B|C|D",{listStyle: builder.ListStyle["button"],retryPrompt:'請選擇ABCD喔'});
         
     },(session,results)=>{
         if(session.dialogData.a.replace(/"/g,'')!=results.response.entity){
@@ -128,7 +128,7 @@ bot.dialog('/ask',[(session)=>{
 
 bot.dialog('/feedback',[
     (session,next)=>{
-        builder.Prompts.choice(session,"下面的連結是一個回饋表單，如果有什麼想說的話（像是哪裡怪怪的啦、哪邊可以改得更好啦），歡迎跟我們說！http://ppt.cc/CxyeV","回去選科目吧",{listStyle: builder.ListStyle["button"],retryPrompt:'點選"回去選科目吧"重新做題目吧~'});
+        builder.Prompts.choice(session,"下面的連結是一個回饋表單，如果有什麼想說的話（像是哪裡怪怪的啦、哪邊可以改得更好啦），歡迎跟我們說！http://ppt.cc/CxyeV","回去選科目吧",{listStyle: builder.ListStyle["button"],retryPrompt:'輸入"回去選科目吧"重新做題目吧~'});
     },(session)=>{
         session.replaceDialog('/setting');
     }])

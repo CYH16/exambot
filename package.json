@@ -6,7 +6,8 @@
   "dependencies": {
     "applicationinsights": "^0.21.0",
     "botbuilder": "^3.8.4",
-    "request": "^2.81.0"
+    "request": "^2.81.0",
+    "restify": "^4.3.0"
   },
   "devDependencies": {},
   "scripts": {
