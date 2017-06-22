@@ -1,0 +1,25 @@
+{
+  "name": "cyhexambot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "applicationinsights": "^0.21.0",
+    "botbuilder": "^3.8.4",
+    "request": "^2.81.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CYH16/exambot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CYH16/exambot/issues"
+  },
+  "homepage": "https://github.com/CYH16/exambot#readme"
+}

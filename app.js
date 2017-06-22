@@ -1,3 +1,5 @@
+var appInsights = require('applicationinsights');
+appInsights.setup('9efcda74-3dde-4b51-9ec9-d0db387f9eed').start();
 let restify = require('restify');
 let builder = require('botbuilder');
 
