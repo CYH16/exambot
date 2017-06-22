@@ -1,5 +1,5 @@
-var appInsights = require('applicationinsights');
-appInsights.setup('9efcda74-3dde-4b51-9ec9-d0db387f9eed').start();
+//var appInsights = require('applicationinsights');
+//appInsights.setup('9efcda74-3dde-4b51-9ec9-d0db387f9eed').start();
 let restify = require('restify');
 let builder = require('botbuilder');
 
@@ -40,7 +40,7 @@ bot.dialog('/',[
 bot.dialog('/setting',[(session,args,next)=>{
         if(!session.privateConversationData.sec || session.privateConversationData.sec==null)
         {
-            builder.Prompts.choice(session,"那麼你想要練習哪一科咧？\n",Object.keys(testData).join('|').concat("|我有話想說"),{listStyle: builder.ListStyle["button"],retryPrompt:'請選擇我們現在有提供的科目喔><'});
+            builder.Prompts.choice(session,"那麼你想要練習哪一科咧？\n",Object.keys(testData).join('|').concat("|我有話想說"),{listStyle: builder.ListStyle["button"]});
 		}else{next();}
     },(session,results,next)=>{
 		if(results.response == undefined){next();}
