@@ -40,7 +40,7 @@ bot.dialog('/',[
 bot.dialog('/setting',[(session,args,next)=>{
         if(!session.privateConversationData.sec || session.privateConversationData.sec==null)
         {
-            builder.Prompts.choice(session,"那麼你想要練習哪一科咧？\n",Object.keys(testData).join('|').concat("|我有話想說"),{listStyle: builder.ListStyle["button"],retryPrompt:"請選擇我們現在有提供的科目喔><<br>目前有：微免、藥理、解剖"});
+            builder.Prompts.choice(session,"那麼你想要練習哪一科咧？\n",Object.keys(testData).join('|').concat("|我有話想說"),{listStyle: builder.ListStyle["button"],retryPrompt:"請選擇我們現在有提供的科目喔><\n\n目前有：微免、藥理、解剖"});
 		}else{next();}
     },(session,results,next)=>{
 		if(results.response == undefined){next();}
@@ -48,7 +48,7 @@ bot.dialog('/setting',[(session,args,next)=>{
         else{
 			session.privateConversationData.sec = [results.response.entity];
 			if(testData[results.response.entity].constructor===Object){
-				builder.Prompts.choice(session,"那麼要練習哪個部分呢？",Object.keys(testData[results.response.entity]).join('|').concat("|算了重選科目吧"),{listStyle: builder.ListStyle["button"],retryPrompt:"請選擇我們現在有提供的科目喔><\n微免：免疫、微生物\n解剖：四肢、神解、胸背腹、頭頸、骨盆會陰"})  
+				builder.Prompts.choice(session,"那麼要練習哪個部分呢？",Object.keys(testData[results.response.entity]).join('|').concat("|算了重選科目吧"),{listStyle: builder.ListStyle["button"],retryPrompt:"請選擇我們現在有提供的科目喔><chr(10)微免：免疫、微生物\n解剖：四肢、神解、胸背腹、頭頸、骨盆會陰"})  
 			}else{
 				next({response:null});
 			}
