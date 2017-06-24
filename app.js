@@ -48,7 +48,7 @@ bot.dialog('/setting',[(session,args,next)=>{
         else{
 			session.privateConversationData.sec = [results.response.entity];
 			if(testData[results.response.entity].constructor===Object){
-				builder.Prompts.choice(session,"那麼要練習哪個部分呢？",Object.keys(testData[results.response.entity]).join('|').concat("|算了重選科目吧"),{listStyle: builder.ListStyle["button"],retryPrompt:"請選擇我們現在有提供的科目喔><c\n\n微免：免疫、微生物\n\n解剖：四肢、神解、胸背腹、頭頸、骨盆會陰"})  
+				builder.Prompts.choice(session,"那麼要練習哪個部分呢？",Object.keys(testData[results.response.entity]).join('|').concat("|算了重選科目吧"),{listStyle: builder.ListStyle["button"],retryPrompt:"請選擇我們現在有提供的科目喔><\n\n微免：免疫、微生物\n\n解剖：四肢、神解、胸背腹、頭頸、骨盆會陰"})  
 			}else{
 				next({response:null});
 			}
@@ -115,7 +115,10 @@ bot.dialog('/ask',[(session)=>{
         
     },(session,results)=>{
         if(session.dialogData.a.replace(/"/g,'')!=results.response.entity){
-            session.send("答錯囉，正確的答案是%s。",session.dialogData.a.replace(/"/g,''));
+			if(session.dialogData.a.replace(/"/g,'').includes(results.response.entity)){
+				session.send("答對囉，不過這題送分，正確的答案有%s。",session.dialogData.a.replace(/"/g,''));
+			}
+            else{session.send("答錯囉，正確的答案是%s。",session.dialogData.a.replace(/"/g,''));}
         }else{
             session.send("答對了！");
         }
