@@ -3,7 +3,7 @@
 {答案:"C",題目:" 成人的蜘蛛膜下腔最下方終端位於椎管哪一水平位置？      \n(A)第一腰椎下緣        \n(B)骶骨岬      \n(C)第二、三薦椎之間    \n(D)第五薦椎上緣"},
 {答案:"D",題目:" 腦室系統在下列何處開口與蜘蛛膜下腔相通？\n(A)左側腦室\n(B)第三腦室\n(C)大腦導水管\n(D)第四腦室"},
 {答案:"B",題目:" 成人的蜘蛛膜下腔最低點通常位在下列何者之高度？      \n(A)第二腰椎與第三腰椎之間   \n(B)第二薦椎與第三薦椎之間      \n(C)第四薦椎   \n(D)尾椎"},
-{答案:"D",題目:" 小腦天幕(cerebellar tentorium)不附著於:      \n(A)蝶骨(sphenoid bone)  \n(B)枕骨(occipital bone)      \n(C)顳骨(temporal bone)   \n(D)顴骨(zygomatic bone)"},
+{答案:"D",題目:" 小腦天幕(cerebellar tentorium)不附著於：      \n(A)蝶骨(sphenoid bone)  \n(B)枕骨(occipital bone)      \n(C)顳骨(temporal bone)   \n(D)顴骨(zygomatic bone)"},
 {答案:"C",題目:" 腦脊髓液(cerebrospinal fluid)經由哪一個地方進入蜘蛛膜下腔(subarachnoid space)？      \n(A)蜘蛛膜絨毛(arachnoid villi)      \n(B)絨毛膜叢(choroid plexus)      \n(C)第四腦室內外髓孔(foramen of Luschka and Magendie)      \n(D)室間孔(foramen of Monro)"},
 {答案:"B",題目:" 下列何者有腦脊髓液？      \n(A)硬膜下腔            \n(B)蛛膜下腔      \n(C)軟腦膜與腦組織之間  \n(D)骨內膜層與腦膜層間"},
 {答案:"B",題目:" 脊髓的蜘蛛膜下腔最低限在薦椎第幾節？\n(A)一\n(B)二\n(C)三\n(D)四"},
