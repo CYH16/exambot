@@ -14,7 +14,7 @@
 {答案:"D",題目:" 頂骨（parietal bone）、額骨（frontal bone）、顳骨（temporal bone）及顴骨（zygomatic bone）之交界處稱為：\n(A)前囪點（Bregma）\n(B)人字點（Lambda）\n(C)枕外隆凸點（Inion）\n(D)翼點（Pterion）"},
 {答案:"B",題目:" 頭皮血液的供應主要來自：\n(A)腦膜中動脈（middle meningeal artery）\n(B)顳淺動脈（superficial temporal artery）\n(C)椎動脈（vertebral artery）\n(D)面動脈（facial artery）"},
 {答案:"B",題目:" 顳顎關節（temporomandibular joint）手術時，容易傷害到位於下顎髁（mandibular condyle）內側那條血管？\n(A)頸內動脈\n(B)上顎動脈\n(C)面動脈\n(D)舌動脈"},
-{答案:"C",題目:" 承上題，上述情況若造成大量出血，為止血，可暫時綁住：\n(A)上顎動脈\n(B)頸總動脈\n(C)頸外動脈\n(D)頸內動脈"},
+{答案:"C",題目:" 承上題，上述情況(傷到上顎動脈)若造成大量出血，為止血，可暫時綁住：\n(A)上顎動脈\n(B)頸總動脈\n(C)頸外動脈\n(D)頸內動脈"},
 {答案:"D",題目:"下列何者屬於舌骨下肌群（infrahyoid m.）？\n(A)二腹肌\n(B)斜方肌\n(C)前斜角肌\n(D)胸骨甲狀肌"},
 {答案:"B",題目:"下列那一種動作不是由面神經調控？\n(A)微笑\n(B)張眼\n(C)閉眼\n(D)嘟嘴"},
 {答案:"A",題目:"下列何者不參與牙關咬緊？\n(A)外翼肌（lateral pterygoid muscle）\n(B)內翼肌（medial pterygoid muscle）\n(C)顳肌（temporal muscle）\n(D)嚼肌（masseter）"},

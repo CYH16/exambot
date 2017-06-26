@@ -40,7 +40,7 @@ bot.dialog('/',[
 bot.dialog('/setting',[(session,args,next)=>{
         if(!session.privateConversationData.sec || session.privateConversationData.sec==null)
         {
-            builder.Prompts.choice(session,"那麼你想要練習哪一科咧？\n",Object.keys(testData).join('|').concat("|我有話想說"),{listStyle: builder.ListStyle["button"],retryPrompt:"請選擇我們現在有提供的科目喔><\n\n目前有：微免、藥理、解剖"});
+            builder.Prompts.choice(session,"那麼你想要練習哪一科咧？\n",Object.keys(testData).join('|').concat("|我有話想說"),{listStyle: builder.ListStyle["button"],retryPrompt:"請選擇我們現在有提供的科目喔><\n\n目前有：微免、生化、藥理、解剖"});
 		}else{next();}
     },(session,results,next)=>{
 		if(results.response == undefined){next();}
