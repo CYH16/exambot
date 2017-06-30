@@ -70,7 +70,7 @@
 {答案:"D",題目:"T 細胞受體之 β 鏈（T cell receptor β-chain, TCRβ）基因之胚原序列（germline sequence）可存在於下 列那種細胞中？\n(A) CD4+CD8+ T 細胞        \n(B)輔助型 T 細胞（helper T cell）\n(C)毒殺型 T 細胞（cytotoxic T cell）        \n(D) B 細胞"},
 {答案:"D",題目:"下列有關 mixed lymphocyte reaction（MLR）的敘述何者錯誤？\n(A) MLR 可以用來偵測器官移植時，捐贈者與接受者組織不相容之情形\n(B) MLR 可以用來偵測 CD4+  T 細胞增生之情形\n(C) MLR 會加入[3H]-thymidine 來偵測 DNA 合成之情況\n(D)[3H]-thymidine 的量越多表示細胞增生程度越好，捐贈者的器官越容易被接受 "},
 {答案:"D",題目:"關於 T 輔助細胞在 B 細胞活化過程中所提供協助的敘述，下列那一項錯誤？\n(A)兩種細胞必須辨識同一種抗原（linked recognition），才能有效刺激抗體生成\n(B) T 輔助細胞分泌細胞激素（cytokines）協助 B 細胞的複製與活化\n(C) T 輔助細胞表面表現 CD40L 分子，可協助 B 細胞第 2 訊號的傳遞\n(D) T 輔助細胞表面表現 B7，是主要的協同刺激因子（co-stimulatory molecule）"},
-{答案:"A",題目:"上皮內淋巴細胞（intraepithelial lymphocytes, IELs）主要包含二群 CD8+ T 細胞，一群為 CD8 α:α T 細 胞，另一群為 CD8 α:β T 細胞，下列有關這二群細胞之敘述，何者正確？\n(A)二者皆可利用 perforin 及 granzyme 毒殺受感染的上皮細胞\n(B)二者皆利用 T 細胞受體與呈現抗原的 MHC class I 分子結合\n(C)二者皆主要以 naïve T 細胞型式存在上皮細胞之間\n(D)二者的 T 細胞受體變異性（TCR diversity）皆很小 "},
+{答案:"A",題目:"上皮內淋巴細胞（intraepithelial lymphocytes, IELs）主要包含二群 CD8+ T 細胞，一群為 CD8 α：α T 細 胞，另一群為 CD8 α：β T 細胞，下列有關這二群細胞之敘述，何者正確？\n(A)二者皆可利用 perforin 及 granzyme 毒殺受感染的上皮細胞\n(B)二者皆利用 T 細胞受體與呈現抗原的 MHC class I 分子結合\n(C)二者皆主要以 naïve T 細胞型式存在上皮細胞之間\n(D)二者的 T 細胞受體變異性（TCR diversity）皆很小 "},
 {答案:"D",題目:"有關皮膚與黏膜的防禦作用，下列敘述何者錯誤？\n(A)皮膚的外層細胞角質化，可增強對病原體的防禦能力\n(B)胃黏膜的強酸性胃液，可摧毀大部分細菌\n(C)皮脂腺分泌的油脂可阻止細菌繁殖\n(D)皮膚表面的鹼性狀態，可阻止微生物在皮膚繁殖"},
 {答案:"C",題目:"關於先天性免疫力（innate immunity）相關的基因突變會導致嚴重的原發性免疫缺損疾病的敘述，下 列何者正確？\n(A) NEMO 的突變不會影響先天性免疫力\n(B)慢性肉芽腫病的病患易受肝炎病毒感染\n(C)白血球黏著分子缺損可能會導致新生兒臍帶傷口延遲癒合\n(D) Toll-like receptor 的缺損不會導致對病毒的免疫缺損"},
 {答案:"D",題目:"有關第三型過敏免疫反應，最正確的敘述為何？\n(A)抗體辨識與結合細胞表面抗原，造成細胞壞死所產生的過度免疫反應\n(B)主要參與反應的抗體為 IgE\n(C)大量過度活化 TH1  與 CD8 T 細胞所致\n(D)常因持續性病原菌感染所引發"},
