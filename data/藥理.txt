@@ -78,7 +78,7 @@
 {答案:"C",題目:"有關heparin之敘述，下列何者正確？\n(A)具有溶血栓活性\n(B)可抑制血小板凝集反應\n(C)可結合至antithrombin III，以達抗凝血活性\n(D)可抑制肝臟中vitamin K之再生"},
 {答案:"C",題目:"有關vitamin D的敘述，下列何者錯誤？\n(A)主要經由皮膚在紫外線輻射下由7-脫氫膽固醇（7-dehydrocholesterol）轉化而來\n(B)其活性代謝產物會增加血漿中鈣離子濃度\n(C)其活性代謝產物會降低血漿中磷酸鹽（phosphate）濃度\n(D)其衍生物19-nor-1α,25-dihydroxyvitamin D2具有抑制副甲狀腺激素（parathyroid hormone ; PTH）的釋放作用"},
 {答案:"BC",題目:"有關methimazole的藥理作用，下列何者錯誤？\n(A)主要透過抑制甲狀腺過氧化物酶催化反應（thyroid peroxidase-catalytic reaction）及碘有機化（iodine organification）的作用，來抑制甲狀腺素（triiodothyronine及tetraiodothyronine）的合成\n(B)會抑制週邊組織，將triiodothyronine及tetraiodothyronine進行脫碘化作用（deiodination）\n(C)其藥效起始作用（onset）相當快速，通常在服藥後即可產生治療效果\n(D)使用最常產生的副作用是斑丘疹搔癢皮疹（maculopapular pruritic rash）"},
-{答案:"A",題目:"有關liotrix的藥理作用描述，下列何者錯誤？\n(A)為L-thyroxine與liothyronine以10:1的比例組合而成的複合藥物\n(B)具有治療甲狀腺功能低下症的藥理作用\n(C)可以使用於懷孕婦女\n(D)口服有效"},
+{答案:"A",題目:"有關liotrix的藥理作用描述，下列何者錯誤？\n(A)為L-thyroxine與liothyronine以10：1的比例組合而成的複合藥物\n(B)具有治療甲狀腺功能低下症的藥理作用\n(C)可以使用於懷孕婦女\n(D)口服有效"},
 {答案:"C",題目:"有關糖皮質激素（glucocorticoids）作用的敘述，下列何者錯誤？\n(A)糖皮質激素具有增加血中葡萄糖與脂肪酸之作用\n(B)在空腹狀態糖皮質激素具有促進糖質新生（gluconeogenesis）的作用\n(C)投予短效型糖皮質激素會減少循環系統中的嗜中性白血球（neutrophils）的數目，反之，淋巴細胞（lymphocytes）的數目會增加\n(D)糖皮質激素直接塗抹在皮膚表面會造成局部血管收縮的作用"},
 
 
@@ -187,7 +187,7 @@
 {答案:"B",題目:"病人慢性長期服用 isoniazid + rifampin 治療肺結核，下列關於此二藥之作用機轉，何者正確？\n(A)Isoniazid 可以抑制致病菌細胞膜成分麥角脂醇（ergosterol）之生成\n(B)Rifampin 可以抑制致病菌細胞內 RNA 之生成\n(C)Isoniazid 可以抑制致病菌細胞內 DNA gyrase 之活性\n(D)Rifampin 可以抑制致病菌細胞壁成分 mycolic acid 生成"},
 {答案:"A",題目:"關於抗病毒藥物 zidovudine 之敘述，下列何者錯誤？\n(A)為 guanosine 類似物（analog）\n(B)為反轉錄酶抑制劑（reverse transcriptase inhibitor）\n(C)可以和 lamivudine 產生協同作用\n(D)可以用於治療懷孕期間人類免疫缺乏病毒（human immunodeficiency virus）感染問題"},
 {答案:"D",題目:"關於抗癌藥物所引起之毒性，下列配對何者正確？\n(A)Cyclophosphamide：周邊神經病變（peripheral neuropathy）\n(B)Doxorubicin：出血性膀胱炎（hemorrhagic cystitis）\n(C)Vincristine：肺纖維化（pulmonary fibrosis）\n(D)Cisplatin：腎毒性（nephrotoxicity）"},
-{答案:"B",題目:"下列藥物可經由細菌 Ribosomal 50S 之結合來抑制細菌蛋白之合成，何者例外？ \n(A)Telithromycin\n(C)Chloramphenicol \n(B)Tetracycline\n(D)Streptogramin "},
+{答案:"B",題目:"下列藥物可經由細菌 Ribosomal 50S 之結合來抑制細菌蛋白之合成，何者例外？ \n(A)Telithromycin\n(B)Tetracycline\n(C)Chloramphenicol \n(D)Streptogramin "},
 {答案:"C",題目:"下列藥物的作用機轉乃拮抗血小板凝集之共通步驟，即 Fibrinogen 對活化血小板之醣蛋白 IIb/IIIa 之 結合反應。何者除外？ \n(A)Abciximab \n(B)Tirofiban \n(C)Ticlopidine \n(D)Eptifibatide "},
 {答案:"A",題目:"下列何項藥物用於治療 Thrombocytopenia 患者？\n(A)Interleukin-11（Oprelvekin）\n(C)G-CSF（Filgrastim） \n(B)Erythropoietin\n(D)GM-CSF（Sargramostim） "},
 {答案:"ABCD",題目:"下列何種免疫抑制劑，可優先選擇作用於 cytosine monophosphate dehydrogenase 而抑制 Lymphocyte中 guanosine 合成？ \n(A)Cyclosporine\n(C)Tacrolimus \n(B)Leflunomide\n(D)Mycophenolate mofetil "},

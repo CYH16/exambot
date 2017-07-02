@@ -40,10 +40,12 @@ bot.dialog('/',[
 bot.dialog('/setting',[(session,args,next)=>{
         if(!session.privateConversationData.sec || session.privateConversationData.sec==null)
         {
-            builder.Prompts.choice(session,"那麼你想要練習哪一科咧？\n",Object.keys(testData).join('|').concat("|我有話想說"),{listStyle: builder.ListStyle["button"],retryPrompt:"請選擇我們現在有提供的科目喔><\n\n目前有：微免、生化、生理、藥理、解剖"});
+            builder.Prompts.choice(session,"那麼你想要練習哪一科咧？\n",Object.keys(testData).join('|').concat("|病理|胚胎|我有話想說"),{listStyle: builder.ListStyle["button"],retryPrompt:"請選擇我們現在有提供的科目喔><\n\n目前有：微免、生化、生理、藥理、解剖、病理、胚胎"});
 		}else{next();}
     },(session,results,next)=>{
 		if(results.response == undefined){next();}
+		else if(results.response.entity==="病理"){session.beginDialog('/album')}
+		else if(results.response.entity==="胚胎"){session.beginDialog('/album')}
 		else if(results.response.entity==="我有話想說"){session.beginDialog('/feedback')}
         else{
 			session.privateConversationData.sec = [results.response.entity];
@@ -94,7 +96,7 @@ bot.dialog('/qa',[
 		session.send("開始囉");
         session.beginDialog('/ask');
     },(session)=>{
-        builder.Prompts.choice(session,"要繼續做題嗎？","換別科好了|再來吧",{listStyle: builder.ListStyle["button"],retryPrompt:'所以你要練習別科嗎？\n\n請輸入"換別科好了"或是"再來吧"'});
+        builder.Prompts.choice(session,"要繼續做題嗎？","換別科好了|再來吧",{listStyle: builder.ListStyle["button"],retryPrompt:'歹勢我看不懂>< 我只是想知道你要繼續練習這科嗎？\n\n請輸入"換別科好了"或是"再來吧"'});
     },(session,results)=>
     {
         if(results.response.entity==="換別科好了")
@@ -131,9 +133,15 @@ bot.dialog('/ask',[(session)=>{
 
 bot.dialog('/feedback',[
     (session,next)=>{
-        builder.Prompts.choice(session,"下面的連結是一個回饋表單，如果有什麼想說的話（像是哪裡怪怪的啦、哪邊可以改得更好啦），歡迎跟我們說！http://ppt.cc/CxyeV","回去選科目吧",{listStyle: builder.ListStyle["button"],retryPrompt:'輸入"回去選科目吧"重新做題目吧~'});
+        builder.Prompts.choice(session,"下面的連結是一個回饋表單，如果有什麼想說的話（像是哪裡怪怪的啦、哪邊可以改得更好啦），歡迎跟我們說！\n\nhttp://ppt.cc/CxyeV","回去選科目吧",{listStyle: builder.ListStyle["button"],retryPrompt:'輸入"回去選科目吧"重新做題目吧~'});
     },(session)=>{
         session.replaceDialog('/setting');
     }])
 
+bot.dialog('/album',[
+    (session,next)=>{
+        builder.Prompts.choice(session,"現在還沒有病理和胚胎的題庫喔><不過下面的連結是由我的同學做的每日一病以及每日一胎，歡迎看看！\n\n https://www.facebook.com/pg/ExamBot/photos/?tab=albums","回去選其他科吧",{listStyle: builder.ListStyle["button"],retryPrompt:'輸入"回去選其他科吧"去做其他題目吧~'});
+    },(session)=>{
+        session.replaceDialog('/setting');
+    }])
 
