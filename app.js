@@ -140,7 +140,7 @@ bot.dialog('/feedback',[
 
 bot.dialog('/album',[
     (session,next)=>{
-        builder.Prompts.choice(session,"現在還沒有病理和胚胎的題庫喔><不過下面的連結是由我的同學做的每日一病以及每日一胎，歡迎看看！\n\n https://www.facebook.com/pg/ExamBot/photos/?tab=albums","回去選其他科吧",{listStyle: builder.ListStyle["button"],retryPrompt:'輸入"回去選其他科吧"去做其他題目吧~'});
+        builder.Prompts.choice(session,"現在還沒有病理和胚胎的題庫喔><不過下面的連結是由我的同學做的每日一病以及每日一胎，歡迎看看！\n\nhttps://www.facebook.com/pg/ExamBot/photos/?tab=albums","回去選其他科吧",{listStyle: builder.ListStyle["button"],retryPrompt:'輸入"回去選其他科吧"去做其他題目吧~'});
     },(session)=>{
         session.replaceDialog('/setting');
     }])

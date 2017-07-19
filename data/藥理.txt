@@ -196,7 +196,7 @@
 
 
 
-{答案:"B",題目:"下列何種腎上腺皮質素拮抗劑的作用係透過抑制類固醇羥化（steroid hydroxylation）的作用來阻斷皮 質醇和皮質酮的生合成？ \n(A)Ketoconazole\n(C)Aminoglutethimide \n(B)Metyrapone\n(D)Mifepristone（RU-486） "},
+{答案:"B",題目:"下列何種腎上腺皮質素拮抗劑的作用係透過抑制類固醇羥化（steroid hydroxylation）的作用來阻斷皮 質醇和皮質酮的生合成？ \n(A)Ketoconazole \n(B)Metyrapone \n(C)Aminoglutethimide \n(D)Mifepristone（RU-486） "},
 {答案:"B",題目:"下列有關生長激素（growth hormone）的作用描述，何者錯誤？\n(A)生長激素缺乏症可能發生於腦下垂體（pituitary）受損或下丘腦（hypothalamus）發生腫瘤的情況\n(B)生長激素缺乏症發生早期會出現高血糖（hyperglycemia）的情形，主要是抑制胰島素（insulin）的 分泌作用\n(C)雌二醇（estradiol）具有促進生長激素分泌作用\n(D)生長激素具有減少體內脂肪量及增加肌肉質量的作用"},
 {答案:"B",題目:"下列何種藥物可使血管平滑肌細胞內 cGMP 增加，加速 myosin light chains 去磷酸化（dephosphorylation）， 而致血管舒張？ \n(A)Adenosine \n(B)Amyl nitrite \n(C)Amlodipine \n(D)Atenolol "},
 {答案:"C",題目:"下列何者不是 verapamil 之主要藥理作用？\n(A)血管擴張        \n(B)抑制心臟收縮力\n(C)抑制癲癇發作        \n(D)抑制心臟 SA node 及 AV node 活性"},

@@ -68,7 +68,7 @@
 {答案:"A",題目:"下列何者屬於外胜肽酶（exopeptidase）？\n(A)胺基胜肽酶（aminopeptidase）\n(B)胰凝乳蛋白酶（chymotrypsin）\n(C)彈性酶（elastase）\n(D)胰蛋白酶（trypsin）"},
 {答案:"D",題目:"各種消化道平滑肌收縮模式中，那一種是大腸特有的平滑肌收縮？\n(A)peristaltic wave\n(B)segmentation contraction\n(C)tonic contraction\n(D)mass action contraction"},
 {答案:"A",題目:"葡萄糖分子在腎小管近端上皮細胞的再吸收，最主要是透過何種機制進行？\n(A)次級主動運輸（secondary active transport）\n(B)二價鐵離子媒介之轉化作用（Fe2+-mediated conversion）\n(C)胞噬作用（phagocytosis）\n(D)氧化磷酸化作用（oxidative phosphorylation）"},
-{答案:"C",題目:"當尿液中X之濃度為36 mg/mL，血漿中X之濃度為",題目:"25 mg/mL，若受測者尿量為1 mL/min，血比容（hematocrit）為50%，則X的血漿清除率（clearance）最接近多少mL/min？\n(A)9\n(B)18\n(C)144\n(D)288"},
+{答案:"C",題目:"當尿液中X之濃度為36 mg/mL，血漿中X之濃度為25 mg/mL，若受測者尿量為1 mL/min，血比容（hematocrit）為50%，則X的血漿清除率（clearance）最接近多少mL/min？\n(A)9\n(B)18\n(C)144\n(D)288"},
 {答案:"A",題目:"有關腎臟近端腎小管對於水的再吸收之敘述，下列何者錯誤？\n(A)在接近近端腎小管末端內液體，滲透壓會上升至腎小球過濾液的2倍\n(B)近端腎小管上皮的頂膜與基底外側有第一型水通道（aquaporin-1）以協助管內水分被快速再吸收\n(C)近端腎小管約可再吸收腎小球過濾液60～70%的水分\n(D)高血糖（例如糖尿病）造成多尿症主要是透過影響近端腎小管水分吸收"},
 {答案:"A",題目:" 下列何者是活化態維生素D的分子結構？\n(A)1, 25-dihydroxycholecalciferol\n(B)7-dehydrocholesterol\n(C)25-hydroxycholecalciferol\n(D)cholecalciferol"},
 {答案:"B",題目:"下列何種症狀與佝僂症（rickets）最無關？\n(A)兒童出現生長遲緩\n(B)智力發育遲緩\n(C)血中鈣濃度降低\n(D)牙齒發育不全"},

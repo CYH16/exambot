@@ -1,4 +1,4 @@
-﻿{答案:"B﻿",題目:"若蛋白質A的正確摺疊（folding）需要另一蛋白質B的幫助，然而蛋白質B的正確摺疊不需要蛋白質A的幫忙。蛋白質B是屬於下列何種物質？\n(A)配體（ligand）\n(B)分子伴護子（molecular chaperone）\n(C)蛋白質A的同功酶（isoenzyme）\n(D)結構基序（structural motif）"},
+﻿{答案:"B",題目:"若蛋白質A的正確摺疊（folding）需要另一蛋白質B的幫助，然而蛋白質B的正確摺疊不需要蛋白質A的幫忙。蛋白質B是屬於下列何種物質？\n(A)配體（ligand）\n(B)分子伴護子（molecular chaperone）\n(C)蛋白質A的同功酶（isoenzyme）\n(D)結構基序（structural motif）"},
 {答案:"ABCD",題目:"下列那一類細胞的訊息受器（receptor）及其結合蛋白不具有酵素催化活性？\n(A)nuclear receptors\n(B)receptor protein kinases\n(C)G protein-coupled receptors\n(D)chemokine/cytokine receptors"},
 {答案:"D",題目:"有些蛋白質係由多條獨立的多肽鏈（或稱蛋白質次單元）組合而成，這些次單元間在三度空間中的排列方式稱為蛋白質的：\n(A)二級結構（secondary structure）\n(B)超二級結構（supersecondary structure）\n(C)三級結構（tertiary structure）\n(D)四級結構（quaternary structure）"},
 {答案:"B",題目:"罕見的單基因（monogenic）糖尿病，其致病基因已有6種以上，其中一種是葡萄糖代謝相關的酶hexokinase IV（glucokinase）發生突變，關於該酶之敘述，下列何者錯誤？\n(A)該酶作用參與糖解反應（glycolysis）\n(B)該酶基因突變會直接增加TCA cycle之反應速率\n(C)該酶基因突變會導致胰島細胞ATP生成減少\n(D)該酶會磷酸化葡萄糖"},
