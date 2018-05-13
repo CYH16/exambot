@@ -6,6 +6,7 @@
   "dependencies": {
     "applicationinsights": "^0.21.0",
     "botbuilder": "^3.8.4",
+    "botbuilder-azure": "^3.0.2",
     "request": "^2.81.0",
     "restify": "^4.3.0"
   },

@@ -3,6 +3,14 @@
 let restify = require('restify');
 let builder = require('botbuilder');
 
+///////////////////////////////////////////////////////////////////////////////////////////////
+var azure = require('botbuilder-azure'); 
+var tableName = "cyhexambot"; // You define
+var storageName = "cyhexambot"; // Obtain from Azure Portal
+var storageKey = "fFVzZQ3ynuSvA1nKD7Pd9JDFPsT0dYXb9FHEdh7+JVYM00mh+lIzBs4uCE+VDJqKKs+jIVPZl3HGBI2ofu73eQ=="; // Obtain from Azure Portal
+var azureTableClient = new azure.AzureTableClient(tableName, storageName, storageKey);
+var tableStorage = new azure.AzureBotStorage({gzipData: false}, azureTableClient);
+///////////////////////////////////////////////////////////////////////////////////////////////
 
 //================================================
 //Bot Setup
@@ -17,7 +25,7 @@ let connector = new builder.ChatConnector({
     appId: "cd285edd-5502-49bb-9e0c-fc8b823a641a",
     appPassword: "ZnoNu9TsTX6tLAaNX6mo3rx"
     });
-let bot = new builder.UniversalBot(connector);
+let bot = new builder.UniversalBot(connector).set('storage', tableStorage);
 
 server.post('/api/messages',connector.listen());
 const testData = JSON.parse(require('fs').readFileSync('./test.json', 'utf8'));
@@ -31,6 +39,9 @@ bot.dialog('/',[
     {
         session.send(`哈囉~${session.message.user.name}你好\~\~`);
 		session.send("我是一個練習醫師一階國考的聊天機器人，可以讓你練習歷屆的國考題。"); 
+		session.send("對了偷偷跟你說個秘密，我之後要搬家囉！");
+		session.send('以後我會變成"考古豹 CougarBot・考古題共享平台"，功能更多更齊全，等你一起來發掘！');
+		session.send("快去看看吧！\n\n粉專：https://www.facebook.com/cougarbot/\n\n網站：https://cougarbot.cc/");
         session.beginDialog('/setting');
     }
 ])
@@ -96,6 +107,9 @@ bot.dialog('/qa',[
 		session.send("開始囉");
         session.beginDialog('/ask');
     },(session)=>{
+		session.send("對了偷偷跟你說個秘密，我之後要搬家囉！");
+		session.send('以後我會變成"考古豹 CougarBot・考古題共享平台"，功能更多更齊全，等你一起來發掘！');
+		session.send("快去看看吧！\n\n粉專：https://www.facebook.com/cougarbot/\n\n網站：https://cougarbot.cc/");
         builder.Prompts.choice(session,"要繼續做題嗎？","換別科好了|再來吧",{listStyle: builder.ListStyle["button"],retryPrompt:'歹勢我看不懂>< 我只是想知道你要繼續練習這科嗎？\n\n請輸入"換別科好了"或是"再來吧"'});
     },(session,results)=>
     {
@@ -133,6 +147,9 @@ bot.dialog('/ask',[(session)=>{
 
 bot.dialog('/feedback',[
     (session,next)=>{
+		session.send("對了偷偷跟你說個秘密，我之後要搬家囉！");
+		session.send('以後我會變成"考古豹 CougarBot・考古題共享平台"，功能更多更齊全，等你一起來發掘！');
+		session.send("快去看看吧！\n\n粉專：https://www.facebook.com/cougarbot/\n\n網站：https://cougarbot.cc/");
         builder.Prompts.choice(session,"下面的連結是一個回饋表單，如果有什麼想說的話（像是哪裡怪怪的啦、哪邊可以改得更好啦），歡迎跟我們說！\n\nhttp://ppt.cc/CxyeV","回去選科目吧",{listStyle: builder.ListStyle["button"],retryPrompt:'輸入"回去選科目吧"重新做題目吧~'});
     },(session)=>{
         session.replaceDialog('/setting');
